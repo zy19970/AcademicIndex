@@ -20,3 +20,6 @@ I am a third-year PhD student at the Faculty of Materials and Manufacturing, Bei
 
 I am broadly interested in Medical Robotics, Control Theory, and Machine Learning. These days, I am mostly drawn by the development of large language models. A topic that I am actively thinking about/working on is How to build effective physical human-robot interaction strategies through multimodal information.
 
+I always welcome the opportunity to collaborate and discuss my research. Please feel free to reach out to me via email if you're interested.
+
+I'm actively looking for a full-time position! Let's connect if you happen to know any good fittings.
