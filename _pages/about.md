@@ -6,7 +6,7 @@ subtitle: <a href='https://english.bjut.edu.cn/index.htm'>Affiliations</a>. Beij
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 
 
