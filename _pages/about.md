@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: Beijing University of Technology. zy19970@emails.bjut.edu.cn
+subtitle: Beijing University of Technology.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 
