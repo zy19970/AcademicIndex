@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Beijing University of Technology. zy19970@emails.bjut.edu.cn
+subtitle: Beijing University of Technology.
 
 profile:
   align: right
