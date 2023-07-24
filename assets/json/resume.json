@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yu Zhou",
+    "label": "PhD",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zy19970@emails.bjut.edu.cn",
+    "phone": "null",
+    "url": "https://zy19970.github.io/AcademicIndex/",
+    "summary": "A third-year PhD student at the Faculty of Materials and Manufacturing, Beijing University of Technology.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "100 Pingleyuan",
+      "postalCode": "100124",
+      "city": "Chaoyang District",
+      "countryCode": "CN",
+      "region": "Beijing"
     }
   }
 }
