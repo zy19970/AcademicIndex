@@ -9,10 +9,12 @@ sEMG is commonly used in various fields, including sports science, rehabilitatio
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. This page collects recent research effort in this line. (**Update: April 2023**)
 
-# Review
+## Review
 
-# HD-sEMG
+- (2022) Surface Electromyography as a Natural Human–Machine Interface: A Review **in** *IEEE Sens. J.* doi:10.1109/JSEN.2022.3165988.
 
-# Gesture Recognition
+## HD-sEMG
 
-# Exoskeleton
+## Gesture Recognition
+
+## Exoskeleton
