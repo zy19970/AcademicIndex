@@ -7,4 +7,4 @@ importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page. This page collects recent research effort in this line. (** Update: April 2023 **)
+This page collects recent research effort in this line. (**Update: April 2023**)
