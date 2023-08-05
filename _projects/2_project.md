@@ -11,7 +11,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ## Review
 
-- (2022) Surface Electromyography as a Natural Human–Machine Interface: A Review **in** *IEEE Sens. J.* doi:10.1109/JSEN.2022.3165988.
+- (2022) Surface Electromyography as a Natural Human–Machine Interface: A Review **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2022.3165988](https://ieeexplore.ieee.org/document/9751758/).
 
 ## HD-sEMG
 
