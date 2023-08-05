@@ -2,7 +2,6 @@
 layout: page
 title: sEMG
 description: sEMG stands for surface electromyography. It is a non-invasive technique used to measure and record the electrical activity of muscles.
-img: assets/img/3.jpg
 importance: 2
 category: work
 ---
