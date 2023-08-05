@@ -8,5 +8,3 @@ category: work
 ---
 
 Every project has a beautiful feature showcase page.
-
-{% endraw %}
