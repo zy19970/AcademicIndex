@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Research
 description: I always welcome the opportunity to collaborate and discuss my research. Please feel free to reach out to me via email if you're interested.
 nav: true
 nav_order: 1
