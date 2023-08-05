@@ -7,4 +7,12 @@ category: work
 ---
 sEMG is commonly used in various fields, including sports science, rehabilitation, ergonomics, and biomedical research. It allows researchers and healthcare professionals to assess muscle function, evaluate muscle activity patterns, diagnose neuromuscular disorders, monitor muscle rehabilitation progress, and analyze movement patterns.
 
-I focus on research in the IEEExplore database. This page collects recent research effort in this line. (**Update: April 2023**)
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. This page collects recent research effort in this line. (**Update: April 2023**)
+
+# Review
+
+# HD-sEMG
+
+# Gesture Recognition
+
+# Exoskeleton
