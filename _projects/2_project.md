@@ -21,7 +21,13 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Functionally Adaptive Myosite Selection Using High-Density Semg for Upper Limb Myoelectric Prostheses **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3274053](https://ieeexplore.ieee.org/document/10126101/)
 
-## Gesture Recognition
+- (2023) Iterative Pseudo-Sparse Partial Least Square and its Higher-Order Variant: Application to Inference From High-Dimensional Biosignals **in** *IEEE Trans. Cogn. Dev. Syst.* doi:[10.1109/TCDS.2023.3267010](https://ieeexplore.ieee.org/document/10102269/)
+
+- (2023) Decoding Silent Speech Based On High-Density Surface Electromyogram Using Spatiotemporal Neural Network **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3266299](https://ieeexplore.ieee.org/document/10098814/)
+
+
+
+## Gesture Recognition & Movement Classification
 - (2023) Multi-view fusion network-based gesture recognition using sEMG data **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3287979](https://ieeexplore.ieee.org/document/10158011/).
 
 - (2023) A Hybrid Multimodal Fusion Framework for sEMG-ACC-Based Hand Gesture Recognition **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2022.3231925](https://ieeexplore.ieee.org/document/10005269/)
@@ -50,7 +56,15 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Lstm-Ae for Domain Shift Quantification in Cross-Day Upper-Limb Motion Estimation Using Surface Electromyography **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3281455](https://ieeexplore.ieee.org/document/10138591/)
 
+- (2023) A Cnn-Transformer Hybrid Recognition Approach for Semg-Based Dynamic Gesture Prediction **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3273651](https://ieeexplore.ieee.org/document/10121332/)
 
+- (2023) Multimodal Fusion Convolutional Neural Network Based On Semg and Accelerometer Signals for Inter-Subject Upper Limb Movement Classification **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3266872](https://ieeexplore.ieee.org/document/10105233/)
+
+- (2023) Hand Movement Recognition and Salient Tremor Feature Extraction with Wearable Devices in Parkinson’S Patients **in** *IEEE Trans. Cogn. Dev. Syst.* doi:[10.1109/TCDS.2023.3266812](https://ieeexplore.ieee.org/document/10102268/)
+
+- (2023) Semg Based Gesture Recognition Method for Coal Mine Inspection Manipulator Using Multi-Stream Cnn **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3264646](https://ieeexplore.ieee.org/document/10098761/)
+
+- (2023) Decoding Electromyographic Signal with Multiple Labels for Hand Gesture Recognition **in** *IEEE Signal Process. Lett.* doi:[10.1109/LSP.2023.3264417](https://ieeexplore.ieee.org/document/10093127/)
 
 
 ## Multimodal Fusion
@@ -61,6 +75,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 - (2023) Multi-View Fusion Network-Based Gesture Recognition Using Semg Data **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3287979](https://ieeexplore.ieee.org/document/10158011/)
+
+- (2023) Multimodal Fusion Convolutional Neural Network Based On Semg and Accelerometer Signals for Inter-Subject Upper Limb Movement Classification **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3266872](https://ieeexplore.ieee.org/document/10105233/)
 
 
 
@@ -80,6 +96,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) A Two-Stage Ga-Based Semg Feature Selection Method for User-Independent Continuous Estimation of Elbow Angles **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3276522](https://ieeexplore.ieee.org/document/10124780/)
 
+- (2023) Robot Programming by Demonstration: Trajectory Learning Enhanced by Semg-Based User Hand Stiffness Estimation **in** *IEEE Trans. Robot.* doi:[10.1109/TRO.2023.3258669](https://ieeexplore.ieee.org/document/10099028/)
 
 
 
@@ -88,6 +105,13 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) A Wearable Co-located Neural-Mechanical Signal Sensing Device for Simultaneous Bimodal Muscular Activity Detection **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3287729](https://ieeexplore.ieee.org/document/10157981/)
 
 - (2023) Washable garment-embedded textile electrodes can measure high quality surface EMG data across a range of motor tasks **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3295773](https://ieeexplore.ieee.org/document/10189397/)
+
+- (2023) Three-Electrode Double-Differential Biopotential Amplifier for Surface Emg Measurements **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3270975](https://ieeexplore.ieee.org/document/10109846/)
+
+- (2023) Using Flexible and Stretchable Surface Electromyography Electrode Array to Evaluate Congenital Muscular Torticollis in Children **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3271650](https://ieeexplore.ieee.org/document/10113349/)
+
+- (2023) A Mems-Based Wearable, Flexible Embedded High-Density Sensor with Self-Adhesive Pedot:Pss Gel for Hd-Semg Monitoring **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3263877](https://ieeexplore.ieee.org/document/10101777/)
+
 
 
 
@@ -101,13 +125,21 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Sample Entropy-Based Surface Electromyographic Examination with a Linear Electrode Array in Survivors with Spinal Cord Injury **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3290607](https://ieeexplore.ieee.org/document/10168145/)
 
+- (2023) A Motor Recovery Training and Evaluation Method for the Upper Limb Rehabilitation Robotic System **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3258980](https://ieeexplore.ieee.org/document/10080904/)
+
 ## Muscle
 
 - (2023) Lower-Limb Non-Parametric Functional Muscle Network: Test-Retest Reliability Analysis **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3291748](https://ieeexplore.ieee.org/document/10172091/)
 
 - (2023) Sample Entropy-Based Surface Electromyographic Examination with a Linear Electrode Array in Survivors with Spinal Cord Injury **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3290607](https://ieeexplore.ieee.org/document/10168145/)
 
+- (2023) Using Flexible and Stretchable Surface Electromyography Electrode Array to Evaluate Congenital Muscular Torticollis in Children **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3271650](https://ieeexplore.ieee.org/document/10113349/)
+
+- (2023) Hand Movement Recognition and Salient Tremor Feature Extraction with Wearable Devices in Parkinson’S Patients **in** *IEEE Trans. Cogn. Dev. Syst.* doi:[10.1109/TCDS.2023.3266812](https://ieeexplore.ieee.org/document/10102268/)
+
 
 ## Others
 
 - (2023) Characterising the Blood Pressure Response to Physical Counterpressure Manoeuvres Using Surface Electromyography in Adults with Long Covid **in** *IEEE J. Transl. Eng. Health Med.-JTEHM* doi:[10.1109/JTEHM.2023.3273910](https://ieeexplore.ieee.org/document/10121061/)
+
+- (2023) Pain Level and Pain-Related Behaviour Classification Using Gru-Based Sparsely-Connected Rnns **in** *IEEE J. Sel. Top. Signal Process.* doi:[10.1109/JSTSP.2023.3262358](https://ieeexplore.ieee.org/document/10083190/)
