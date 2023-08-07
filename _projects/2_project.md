@@ -66,6 +66,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Decoding Electromyographic Signal with Multiple Labels for Hand Gesture Recognition **in** *IEEE Signal Process. Lett.* doi:[10.1109/LSP.2023.3264417](https://ieeexplore.ieee.org/document/10093127/)
 
+- (2023) Semg-Based Gesture Recognition Using Temporal History **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3261336](https://ieeexplore.ieee.org/document/10081048/)
+
 
 ## Multimodal Fusion
 
