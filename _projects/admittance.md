@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AA&I
-description:  AA&I stands for adaptive dmittance and impedance control. It can achieve desired behavior and interaction between a robot and its environment.
+description:  AA&I stands for adaptive dmittance and impedance control. It can achieve desired behavior between a robot and its environment.
 importance: 2
 category: work
 ---
