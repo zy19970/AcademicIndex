@@ -70,6 +70,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Subject-Independent Estimation of Continuous Movements Using Cnn-Lstm for a Home-Based Upper Limb Rehabilitation System **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3303701](https://ieeexplore.ieee.org/document/10214163/)
 
+- (2023) Multi-Attention Feature Fusion Network for Accurate Estimation of Finger Kinematics From Surface Electromyographic Signals **in** *IEEE T. Hum.-Mach. Syst.* doi:[10.1109/THMS.2023.3252817](https://ieeexplore.ieee.org/document/10086669/)
+
 ## Multimodal Fusion
 
 - (2023) A Hybrid Multimodal Fusion Framework for sEMG-ACC-Based Hand Gesture Recognition **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2022.3231925](https://ieeexplore.ieee.org/document/10005269/)
