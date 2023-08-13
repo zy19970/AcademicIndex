@@ -68,6 +68,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Semg-Based Gesture Recognition Using Temporal History **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3261336](https://ieeexplore.ieee.org/document/10081048/)
 
+- (2023) Subject-Independent Estimation of Continuous Movements Using Cnn-Lstm for a Home-Based Upper Limb Rehabilitation System **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3303701](https://ieeexplore.ieee.org/document/10214163/)
 
 ## Multimodal Fusion
 
@@ -83,6 +84,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Exoskeleton
+
+- (2023) Subject-Independent Estimation of Continuous Movements Using Cnn-Lstm for a Home-Based Upper Limb Rehabilitation System **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3303701](https://ieeexplore.ieee.org/document/10214163/)
 
 ## Joint Stiffness or Tq
 
