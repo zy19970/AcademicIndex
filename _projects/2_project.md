@@ -105,7 +105,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Robot Programming by Demonstration: Trajectory Learning Enhanced by Semg-Based User Hand Stiffness Estimation **in** *IEEE Trans. Robot.* doi:[10.1109/TRO.2023.3258669](https://ieeexplore.ieee.org/document/10099028/)
 
-
+- (2023) Semg-Based End-to-End Continues Prediction of Human Knee Joint Angles Using the Tightly Coupled Convolutional Transformer Model **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3304639](https://ieeexplore.ieee.org/document/10214651)
 
 ## Sensor
 
