@@ -6,7 +6,7 @@ subtitle: Beijing University of Technology.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
 
 
