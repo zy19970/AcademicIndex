@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AA&I
-description:  AA&I stands for adaptive dmittance and impedance control. It can achieve desired behavior between a robot and its environment.
+description:  AA&I stands for adaptive dmittance or impedance control. It can achieve desired behavior between a robot and its environment.
 importance: 2
 category: work
 ---
@@ -15,3 +15,11 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Adaptive Force Tracking Impedance Control for Aerial Interaction in Uncertain Contact Environment Using Barrier Function **in** *IEEE Trans. Autom. Sci. Eng.* doi:[10.1109/TASE.2023.3301023](https://ieeexplore.ieee.org/document/10214199)
 
 - (2023) Interactive Imitation Learning of Bimanual Movement Primitives **in** *IEEE/ASME Transactions on Mechatronics* doi:[10.1109/TMECH.2023.3295249](https://ieeexplore.ieee.org/document/10215052)
+
+- (2023) Machine Learning-Assisted Analysis of Electrochemical Biosensors **in** *IEEE Sens. Lett.* doi:[10.1109/LSENS.2023.3307112](https://ieeexplore.ieee.org/document/10225266/)
+
+- (2023) Robotic Skill Mutation in Robot-to-Robot Propagation During a Physically Collaborative Sawing Task **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3307289](https://ieeexplore.ieee.org/document/10225643/)
+
+- (2023) Realization and Control of Robotic Injection Prototype with Instantaneous Remote Center of Motion Mechanism **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3306555](https://ieeexplore.ieee.org/document/10224338/)
+
+- (2023) Semg-Based Adaptive Cooperative Multi-Mode Control of a Soft Elbow Exoskeleton Using Neural Network Compensation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3306201](https://ieeexplore.ieee.org/document/10223417/)

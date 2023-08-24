@@ -72,6 +72,12 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Multi-Attention Feature Fusion Network for Accurate Estimation of Finger Kinematics From Surface Electromyographic Signals **in** *IEEE T. Hum.-Mach. Syst.* doi:[10.1109/THMS.2023.3252817](https://ieeexplore.ieee.org/document/10086669/)
 
+- (2023) Dsdan: Dual-Step Domain Adaptation Network Based On Bidirectional Knowledge Distillation for Cross-User Myoelectric Pattern Recognition **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3305619](https://ieeexplore.ieee.org/document/10225665/)
+
+- (2023) Recognition of Lower Limb Movements Using Machine Learning Methods and Bispectral Maps of Wireless Semg Measurements **in** *IEEE Sens. Lett.* doi:[10.1109/LSENS.2023.3307108](https://ieeexplore.ieee.org/document/10225708/)
+
+- (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
+
 ## Multimodal Fusion
 
 - (2023) A Hybrid Multimodal Fusion Framework for sEMG-ACC-Based Hand Gesture Recognition **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2022.3231925](https://ieeexplore.ieee.org/document/10005269/)
@@ -85,9 +91,11 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 
-## Exoskeleton
+## Exoskeleton or Roboics
 
 - (2023) Subject-Independent Estimation of Continuous Movements Using Cnn-Lstm for a Home-Based Upper Limb Rehabilitation System **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3303701](https://ieeexplore.ieee.org/document/10214163/)
+
+- (2023) Semg-Based Adaptive Cooperative Multi-Mode Control of a Soft Elbow Exoskeleton Using Neural Network Compensation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3306201](https://ieeexplore.ieee.org/document/10223417/)
 
 ## Joint Stiffness or Tq
 
@@ -133,6 +141,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Sample Entropy-Based Surface Electromyographic Examination with a Linear Electrode Array in Survivors with Spinal Cord Injury **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3290607](https://ieeexplore.ieee.org/document/10168145/)
 
 - (2023) A Motor Recovery Training and Evaluation Method for the Upper Limb Rehabilitation Robotic System **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3258980](https://ieeexplore.ieee.org/document/10080904/)
+
+- (2023) Force Feedback-Based Gamification: Performance Validation of Squat Exergame Using Pneumatic Gel Muscles and Dynamic Difficulty Adjustment **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3306285](https://ieeexplore.ieee.org/document/10223253/)
+
 
 ## Muscle
 
