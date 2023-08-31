@@ -78,6 +78,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
 
+- (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
+
 ## Multimodal Fusion
 
 - (2023) A Hybrid Multimodal Fusion Framework for sEMG-ACC-Based Hand Gesture Recognition **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2022.3231925](https://ieeexplore.ieee.org/document/10005269/)
@@ -88,6 +90,12 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Multi-View Fusion Network-Based Gesture Recognition Using Semg Data **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3287979](https://ieeexplore.ieee.org/document/10158011/)
 
 - (2023) Multimodal Fusion Convolutional Neural Network Based On Semg and Accelerometer Signals for Inter-Subject Upper Limb Movement Classification **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3266872](https://ieeexplore.ieee.org/document/10105233/)
+
+- (2023) Cumulative Spike Train Estimation for Muscle Excitation Assessment From Surface Emg Using Spatial Spike Detection **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3309662](https://ieeexplore.ieee.org/document/10234098/)
+
+- (2023) A Calibration-Free Hybrid Bci Speller System Based On High-Frequency Ssvep and Semg **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3308779](https://ieeexplore.ieee.org/document/10230298/)
+
+- (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
 
 
 
@@ -114,6 +122,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Robot Programming by Demonstration: Trajectory Learning Enhanced by Semg-Based User Hand Stiffness Estimation **in** *IEEE Trans. Robot.* doi:[10.1109/TRO.2023.3258669](https://ieeexplore.ieee.org/document/10099028/)
 
 - (2023) Semg-Based End-to-End Continues Prediction of Human Knee Joint Angles Using the Tightly Coupled Convolutional Transformer Model **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3304639](https://ieeexplore.ieee.org/document/10214651)
+
+- (2023) Cumulative Spike Train Estimation for Muscle Excitation Assessment From Surface Emg Using Spatial Spike Detection **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3309662](https://ieeexplore.ieee.org/document/10234098/)
 
 ## Sensor
 
@@ -154,6 +164,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Using Flexible and Stretchable Surface Electromyography Electrode Array to Evaluate Congenital Muscular Torticollis in Children **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3271650](https://ieeexplore.ieee.org/document/10113349/)
 
 - (2023) Hand Movement Recognition and Salient Tremor Feature Extraction with Wearable Devices in Parkinson’S Patients **in** *IEEE Trans. Cogn. Dev. Syst.* doi:[10.1109/TCDS.2023.3266812](https://ieeexplore.ieee.org/document/10102268/)
+
+- (2023) Dynamic Muscle Fatigue State Recognition Based On Deep Learning Fusion Model **in** *IEEE Access* doi:[10.1109/ACCESS.2023.3309741](https://ieeexplore.ieee.org/document/10233862/)
 
 
 ## Others
