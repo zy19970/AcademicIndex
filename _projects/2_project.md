@@ -25,6 +25,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Decoding Silent Speech Based On High-Density Surface Electromyogram Using Spatiotemporal Neural Network **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3266299](https://ieeexplore.ieee.org/document/10098814/)
 
+- (2023) High-Density Surface Emg Decomposition by Combining Iterative Convolution Kernel Compensation with an Energy-Specific Peel-Off Strategy **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3309546](https://ieeexplore.ieee.org/document/10237273/)
+
 
 
 ## Gesture Recognition & Movement Classification
@@ -79,6 +81,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
 
 - (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
+
+- (2023) An Electrode Configuration Framework for Semg-Based Gesture Recognition with Muscle-Matched Layouts **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3311054](https://ieeexplore.ieee.org/document/10237222/)
 
 ## Multimodal Fusion
 
@@ -166,6 +170,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Hand Movement Recognition and Salient Tremor Feature Extraction with Wearable Devices in Parkinson’S Patients **in** *IEEE Trans. Cogn. Dev. Syst.* doi:[10.1109/TCDS.2023.3266812](https://ieeexplore.ieee.org/document/10102268/)
 
 - (2023) Dynamic Muscle Fatigue State Recognition Based On Deep Learning Fusion Model **in** *IEEE Access* doi:[10.1109/ACCESS.2023.3309741](https://ieeexplore.ieee.org/document/10233862/)
+
+- (2023) Enhanced Dynamic Surface Emg Decomposition Using the Non-Negative Matrix Factorization and Three-Dimensional Motor Unit Localization **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3309969](https://ieeexplore.ieee.org/document/10237328/)
+
+- (2023) Pattern Matching for Real-Time Extraction of Fast and Slow Spectral Components From Semg Signals **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3311037](https://ieeexplore.ieee.org/document/10238355/)
 
 
 ## Others

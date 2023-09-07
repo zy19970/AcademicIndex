@@ -23,3 +23,12 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Realization and Control of Robotic Injection Prototype with Instantaneous Remote Center of Motion Mechanism **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3306555](https://ieeexplore.ieee.org/document/10224338/)
 
 - (2023) Semg-Based Adaptive Cooperative Multi-Mode Control of a Soft Elbow Exoskeleton Using Neural Network Compensation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3306201](https://ieeexplore.ieee.org/document/10223417/)
+
+- (2023) Design and Control of an Individualized Hip Exoskeleton Capable of Gait Phase Synchronized Flexion and Extension Torque Assistance **in** *IEEE Access* doi:[10.1109/ACCESS.2023.3311352](https://ieeexplore.ieee.org/document/10237205/)
+
+- (2023) Efficient Incremental Offline Reinforcement Learning with Sparse Broad Critic Approximation **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems* doi:[10.1109/TSMC.2023.3305498](https://ieeexplore.ieee.org/document/10237205/)
+
+- (2023) Design Considerations for the Development of Lower Limb Pediatric Exoskeletons a Literature Review **in** *IEEE Transactions on Medical Robotics and Bionics* doi:[10.1109/TMRB.2023.3310040](https://ieeexplore.ieee.org/document/10237294)
+
+- (2023) Robust Variable Impedance Control for Aerial Compliant Interaction with Stability Guarantee **in** *IEEE Trans. Ind. Inform.* doi:[10.1109/TII.2023.3306574](https://ieeexplore.ieee.org/document/10236914/)
+
