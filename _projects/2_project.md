@@ -7,7 +7,7 @@ category: work
 ---
 sEMG is commonly used in various fields, including sports science, rehabilitation, ergonomics, and biomedical research. It allows researchers and healthcare professionals to assess muscle function, evaluate muscle activity patterns, diagnose neuromuscular disorders, monitor muscle rehabilitation progress, and analyze movement patterns.
 
-I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. This page collects recent research effort in this line. (**Update: April 2023**)
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. This page collects recent research effort in this line. (**Update: September 2023**)
 
 ## Review
 
@@ -16,10 +16,15 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 ## HD-sEMG
 
 - (2023) Proportional and Simultaneous Real-Time Control of the Full Human Hand From High-Density Electromyography **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3295060](https://ieeexplore.ieee.org/document/10182328/)
+
 - (2023) Extracting Spatial Muscle Activation Patterns in Facial and Neck Muscles for Silent Speech Recognition Using High-Density Semg **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3277930](https://ieeexplore.ieee.org/document/10130690/)
+
 - (2023) Functionally Adaptive Myosite Selection Using High-Density Semg for Upper Limb Myoelectric Prostheses **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3274053](https://ieeexplore.ieee.org/document/10126101/)
+
 - (2023) Iterative Pseudo-Sparse Partial Least Square and its Higher-Order Variant: Application to Inference From High-Dimensional Biosignals **in** *IEEE Trans. Cogn. Dev. Syst.* doi:[10.1109/TCDS.2023.3267010](https://ieeexplore.ieee.org/document/10102269/)
+
 - (2023) Decoding Silent Speech Based On High-Density Surface Electromyogram Using Spatiotemporal Neural Network **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3266299](https://ieeexplore.ieee.org/document/10098814/)
+
 - (2023) High-Density Surface Emg Decomposition by Combining Iterative Convolution Kernel Compensation with an Energy-Specific Peel-Off Strategy **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3309546](https://ieeexplore.ieee.org/document/10237273/)
 
 
