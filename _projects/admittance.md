@@ -7,7 +7,7 @@ category: work
 ---
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
-I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. This page collects recent research effort in this line. (**Update: April 2023**)
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: September 2023**)
 
 
 - (2023) Nonlinear Subsystem-Based Adaptive Impedance Control of Physical Human-Robot-Environment Interaction in Contact-Rich Tasks **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3302616](https://ieeexplore.ieee.org/document/10210088/)
