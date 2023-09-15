@@ -16,15 +16,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 ## HD-sEMG
 
 - (2023) Proportional and Simultaneous Real-Time Control of the Full Human Hand From High-Density Electromyography **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3295060](https://ieeexplore.ieee.org/document/10182328/)
-
 - (2023) Extracting Spatial Muscle Activation Patterns in Facial and Neck Muscles for Silent Speech Recognition Using High-Density Semg **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3277930](https://ieeexplore.ieee.org/document/10130690/)
-
 - (2023) Functionally Adaptive Myosite Selection Using High-Density Semg for Upper Limb Myoelectric Prostheses **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3274053](https://ieeexplore.ieee.org/document/10126101/)
-
 - (2023) Iterative Pseudo-Sparse Partial Least Square and its Higher-Order Variant: Application to Inference From High-Dimensional Biosignals **in** *IEEE Trans. Cogn. Dev. Syst.* doi:[10.1109/TCDS.2023.3267010](https://ieeexplore.ieee.org/document/10102269/)
-
 - (2023) Decoding Silent Speech Based On High-Density Surface Electromyogram Using Spatiotemporal Neural Network **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3266299](https://ieeexplore.ieee.org/document/10098814/)
-
 - (2023) High-Density Surface Emg Decomposition by Combining Iterative Convolution Kernel Compensation with an Energy-Specific Peel-Off Strategy **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3309546](https://ieeexplore.ieee.org/document/10237273/)
 
 
@@ -84,12 +79,13 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) An Electrode Configuration Framework for Semg-Based Gesture Recognition with Muscle-Matched Layouts **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3311054](https://ieeexplore.ieee.org/document/10237222/)
 
+- (2023) A Novel Interval Type-2 Fuzzy Classifier Based On Explainable Neural Network for Surface Electromyogram Gesture Recognition **in** *IEEE T. Hum.-Mach. Syst.* doi:[10.1109/THMS.2023.3310524](https://ieeexplore.ieee.org/document/10247642/)
+
 ## Multimodal Fusion
 
 - (2023) A Hybrid Multimodal Fusion Framework for sEMG-ACC-Based Hand Gesture Recognition **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2022.3231925](https://ieeexplore.ieee.org/document/10005269/)
 
 - (2023) Research On Multimodal Fusion Recognition Method of Upper Limb Motion Patterns **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3289556](https://ieeexplore.ieee.org/document/10163856/)
-
 
 - (2023) Multi-View Fusion Network-Based Gesture Recognition Using Semg Data **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3287979](https://ieeexplore.ieee.org/document/10158011/)
 
@@ -101,6 +97,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
 
+- (2023) Non-Linearity in Motor Unit Velocity Twitch Dynamics: Implications for Ultrafast Ultrasound Source Separation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3315146](https://ieeexplore.ieee.org/document/10251028/)
+
+
 
 
 ## Exoskeleton or Roboics
@@ -108,6 +107,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Subject-Independent Estimation of Continuous Movements Using Cnn-Lstm for a Home-Based Upper Limb Rehabilitation System **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3303701](https://ieeexplore.ieee.org/document/10214163/)
 
 - (2023) Semg-Based Adaptive Cooperative Multi-Mode Control of a Soft Elbow Exoskeleton Using Neural Network Compensation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3306201](https://ieeexplore.ieee.org/document/10223417/)
+
+- (2023) Myopassivity Map: Does Multi-Channel Semg Correlate with the Energetic Behavior of Upper-Limb Biomechanics During Physical Human-Robot Interaction? **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3313489](https://ieeexplore.ieee.org/document/10244054/)
 
 ## Joint Stiffness or Tq
 
@@ -158,6 +159,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Force Feedback-Based Gamification: Performance Validation of Squat Exergame Using Pneumatic Gel Muscles and Dynamic Difficulty Adjustment **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3306285](https://ieeexplore.ieee.org/document/10223253/)
 
+- (2023) Multi-Channel Fes Gait Rehabilitation Assistance System Based On Adaptive Semg Modulation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3313617](https://ieeexplore.ieee.org/document/10246446/)
+
 
 ## Muscle
 
@@ -181,3 +184,5 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Characterising the Blood Pressure Response to Physical Counterpressure Manoeuvres Using Surface Electromyography in Adults with Long Covid **in** *IEEE J. Transl. Eng. Health Med.-JTEHM* doi:[10.1109/JTEHM.2023.3273910](https://ieeexplore.ieee.org/document/10121061/)
 
 - (2023) Pain Level and Pain-Related Behaviour Classification Using Gru-Based Sparsely-Connected Rnns **in** *IEEE J. Sel. Top. Signal Process.* doi:[10.1109/JSTSP.2023.3262358](https://ieeexplore.ieee.org/document/10083190/)
+
+- (2023) Electrode Shift Fast Adaptive Correction for Improving Myoelectric Control Interface Performance **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3312403](https://ieeexplore.ieee.org/document/10247118/)
