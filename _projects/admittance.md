@@ -33,3 +33,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Robust Variable Impedance Control for Aerial Compliant Interaction with Stability Guarantee **in** *IEEE Trans. Ind. Inform.* doi:[10.1109/TII.2023.3306574](https://ieeexplore.ieee.org/document/10236914/)
 
 - (2023) Dexterous Robotic Cutting Based On Fracture Mechanics and Force Control **in** *IEEE Trans. Autom. Sci. Eng.* doi:[10.1109/TASE.2023.3309784](https://ieeexplore.ieee.org/document/10246024/)
+
+- (2023) Multimodality Driven Impedance-Based Sim2Real Transfer Learning for Robotic Multiple Peg-in-Hole Assembly **in** *IEEE T. Cybern.* doi:[10.1109/TCYB.2023.3310505](https://ieeexplore.ieee.org/document/10251991/)
+
+- (2023) Retinal Surgical Field Realignment Based On Master-Slave Dual-Arm Surgical Robot **in** *IEEE Trans. Autom. Sci. Eng.* doi:[10.1109/TASE.2023.3301277](https://ieeexplore.ieee.org/document/10251833/)

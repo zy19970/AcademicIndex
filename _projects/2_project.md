@@ -86,6 +86,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) A Novel Interval Type-2 Fuzzy Classifier Based On Explainable Neural Network for Surface Electromyogram Gesture Recognition **in** *IEEE T. Hum.-Mach. Syst.* doi:[10.1109/THMS.2023.3310524](https://ieeexplore.ieee.org/document/10247642/)
 
+- (2023) Decision-Change Informed Rejection Improves Robustness in Pattern Recognition-Based Myoelectric Control **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3316599](https://ieeexplore.ieee.org/document/10254242/)
+
+
 ## Multimodal Fusion
 
 - (2023) A Hybrid Multimodal Fusion Framework for sEMG-ACC-Based Hand Gesture Recognition **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2022.3231925](https://ieeexplore.ieee.org/document/10005269/)
@@ -101,6 +104,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) A Calibration-Free Hybrid Bci Speller System Based On High-Frequency Ssvep and Semg **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3308779](https://ieeexplore.ieee.org/document/10230298/)
 
 - (2023) High Performance Wearable Ultrasound as a Human-Machine Interface for Wrist and Hand Kinematic Tracking **in** *IEEE. Trans. Biomed. Eng.* doi:[10.1109/TBME.2023.3307952](https://ieeexplore.ieee.org/document/10227550/)
+
+- (2023) Non-Linearity in Motor Unit Velocity Twitch Dynamics: Implications for Ultrafast Ultrasound Source Separation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3315146](https://ieeexplore.ieee.org/document/10251028/)
 
 - (2023) Non-Linearity in Motor Unit Velocity Twitch Dynamics: Implications for Ultrafast Ultrasound Source Separation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3315146](https://ieeexplore.ieee.org/document/10251028/)
 
@@ -134,6 +139,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Semg-Based End-to-End Continues Prediction of Human Knee Joint Angles Using the Tightly Coupled Convolutional Transformer Model **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3304639](https://ieeexplore.ieee.org/document/10214651)
 
 - (2023) Cumulative Spike Train Estimation for Muscle Excitation Assessment From Surface Emg Using Spatial Spike Detection **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3309662](https://ieeexplore.ieee.org/document/10234098/)
+
+- (2023) A Novel Hybrid Unsupervised Domain Adaptation Method for Cross-Subject Joint Angle Estimation From Surface Electromyography **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3317680](https://ieeexplore.ieee.org/document/10256052/)
 
 ## Sensor
 
@@ -183,6 +190,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Pattern Matching for Real-Time Extraction of Fast and Slow Spectral Components From Semg Signals **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3311037](https://ieeexplore.ieee.org/document/10238355/)
 
+- (2023) Non-Linearity in Motor Unit Velocity Twitch Dynamics: Implications for Ultrafast Ultrasound Source Separation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3315146](https://ieeexplore.ieee.org/document/10251028/)
+
 
 ## Others
 
@@ -191,3 +200,4 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Pain Level and Pain-Related Behaviour Classification Using Gru-Based Sparsely-Connected Rnns **in** *IEEE J. Sel. Top. Signal Process.* doi:[10.1109/JSTSP.2023.3262358](https://ieeexplore.ieee.org/document/10083190/)
 
 - (2023) Electrode Shift Fast Adaptive Correction for Improving Myoelectric Control Interface Performance **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3312403](https://ieeexplore.ieee.org/document/10247118/)
+
