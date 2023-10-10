@@ -37,3 +37,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Multimodality Driven Impedance-Based Sim2Real Transfer Learning for Robotic Multiple Peg-in-Hole Assembly **in** *IEEE T. Cybern.* doi:[10.1109/TCYB.2023.3310505](https://ieeexplore.ieee.org/document/10251991/)
 
 - (2023) Retinal Surgical Field Realignment Based On Master-Slave Dual-Arm Surgical Robot **in** *IEEE Trans. Autom. Sci. Eng.* doi:[10.1109/TASE.2023.3301277](https://ieeexplore.ieee.org/document/10251833/)
+
+- (2023) Outer-Loop Admittance and Motion Control Dual Improvement Via a Multi-Function Observer **in** *IEEE Trans. Ind. Electron.* doi:[10.1109/TIE.2023.3317843](https://ieeexplore.ieee.org/document/10272032/)
+
+- (2023) Impedance Control of an Anthropomorphic Hands without Finger Force Sensors **in** *IEEE Trans. Autom. Sci. Eng.* doi:[10.1109/TASE.2023.3318513](https://ieeexplore.ieee.org/document/10268401/)
+
+- (2023) Improving Sit/Stand Loading Symmetry and Timing through Unified Variable Impedance Control of a Powered Knee-Ankle Prosthesis **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3320692](https://ieeexplore.ieee.org/document/10268252/)

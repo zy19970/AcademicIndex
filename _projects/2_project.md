@@ -109,7 +109,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Non-Linearity in Motor Unit Velocity Twitch Dynamics: Implications for Ultrafast Ultrasound Source Separation **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3315146](https://ieeexplore.ieee.org/document/10251028/)
 
-
+- (2023) A High-Rate Hybrid Bci System Based On High-Frequency Ssvep and Semg **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3321722](https://ieeexplore.ieee.org/document/10271543)
 
 
 ## Exoskeleton or Roboics
@@ -141,6 +141,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Cumulative Spike Train Estimation for Muscle Excitation Assessment From Surface Emg Using Spatial Spike Detection **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3309662](https://ieeexplore.ieee.org/document/10234098/)
 
 - (2023) A Novel Hybrid Unsupervised Domain Adaptation Method for Cross-Subject Joint Angle Estimation From Surface Electromyography **in** *IEEE Robot. Autom. Lett.* doi:[10.1109/LRA.2023.3317680](https://ieeexplore.ieee.org/document/10256052/)
+
+- (2023) Visualizing Hand Force with Wearable Muscle Sensing for Enhanced Mixed Reality Remote Collaboration **in** *IEEE Trans. Vis. Comput. Graph.* doi:[10.1109/TVCG.2023.3320210](https://ieeexplore.ieee.org/document/10269740
+
+
 
 ## Sensor
 
