@@ -43,3 +43,11 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 - (2023) Impedance Control of an Anthropomorphic Hands without Finger Force Sensors **in** *IEEE Trans. Autom. Sci. Eng.* doi:[10.1109/TASE.2023.3318513](https://ieeexplore.ieee.org/document/10268401/)
 
 - (2023) Improving Sit/Stand Loading Symmetry and Timing through Unified Variable Impedance Control of a Powered Knee-Ankle Prosthesis **in** *IEEE Trans. Neural Syst. Rehabil. Eng.* doi:[10.1109/TNSRE.2023.3320692](https://ieeexplore.ieee.org/document/10268252/)
+
+- (2023) Human–Robot Role Arbitration Via Differential Game Theory **in** *IEEE Trans. Autom. Sci. Eng.* doi:[10.1109/TASE.2023.3320708](https://ieeexplore.ieee.org/document/10275780/)
+
+- (2023) Transparent Control in Overground Walking Exoskeleton Reveals Interesting Changing in Subject’S Stepping Frequency **in** *IEEE J. Transl. Eng. Health Med.-JTEHM* doi:[10.1109/JTEHM.2023.3323381](https://ieeexplore.ieee.org/document/10275098/)
+
+- (2023) Outer-Loop Admittance and Motion Control Dual Improvement Via a Multi-Function Observer **in** *IEEE Trans. Ind. Electron.* doi:[10.1109/TIE.2023.3317843](https://ieeexplore.ieee.org/document/10272032/)
+
+- (2023) Bayesian Optimization-Based Efficient Impedance Controller Tuning for Robotic Interaction with Force Feedback **in** *IEEE Trans. Instrum. Meas.* doi:[10.1109/TIM.2023.3322504](https://ieeexplore.ieee.org/document/10272032/)

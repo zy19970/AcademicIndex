@@ -111,6 +111,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) A High-Rate Hybrid Bci System Based On High-Frequency Ssvep and Semg **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3321722](https://ieeexplore.ieee.org/document/10271543)
 
+- (2023) A High-Rate Hybrid Bci System Based On High-Frequency Ssvep and Semg **in** *IEEE J. Biomed. Health Inform.* doi:[10.1109/JBHI.2023.3321722](https://ieeexplore.ieee.org/document/10271543/)
+
 
 ## Exoskeleton or Roboics
 
