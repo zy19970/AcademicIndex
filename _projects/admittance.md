@@ -30,12 +30,15 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2023) "Robust Variable Impedance Control for Aerial Compliant Interaction With Stability Guarantee", **in** *IEEE transactions on industrial informatics*. **DOI**: 10.1109/TII.2023.3306574.<br>
 **Keywords**: Aerial compliant interaction; Convergence; Force; Impedance; Manipulator dynamics; Numerical stability; robust variable impedance control; stability conditions; Stability criteria; Task analysis; variable impedance dynamics.
 
- - (2023) "sEMG-based Adaptive Cooperative Multi-mode Control of a Soft Elbow Exoskeleton Using Neural Network Compensation", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3306201.<br>
-**Keywords**:
- - (2023) "Adaptive Force Tracking Impedance Control for Aerial Interaction in Uncertain Contact Environment Using Barrier Function", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2023.3301023.<br>
-**Keywords**:
- - (2023) "Nonlinear Subsystem-Based Adaptive Impedance Control of Physical Human-Robot-Environment Interaction in Contact-Rich Tasks", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3302616.<br>
-**Keywords**:
+ - (2023) "sEMG-based Adaptive Cooperative Multi-mode Control of a Soft Elbow Exoskeleton Using Neural Network Compensation", **in** *IEEE transactions on neural systems and rehabilitation engineering*. **DOI**: 10.1109/TNSRE.2023.3306201.<br>
+**Keywords**: active participation; adaptive cooperative multi-mode control; Admittance; Backstepping; Elbow; Exoskeletons; neural network compensation; sEMG; Sliding mode control; Soft elbow exoskeleton; Torque; Training.
+
+ - (2023) "Adaptive Force Tracking Impedance Control for Aerial Interaction in Uncertain Contact Environment Using Barrier Function", **in** *IEEE transactions on automation science and engineering*. **DOI**: 10.1109/TASE.2023.3301023.<br>
+**Keywords**: Adaptation models; adaptive impedance control; Aerial interaction; Autonomous aerial vehicles; barrier function; Convergence; Force; Impedance; Manipulators; uncertain contact environment; Uncertainty.
+
+ - (2023) "Nonlinear Subsystem-based Adaptive Impedance Control of Physical Human-Robot-Environment Interaction in Contact-rich Tasks", **in** *IEEE robotics and automation letters*. **DOI**: 10.1109/LRA.2023.3302616.<br>
+**Keywords**: Adaptive Control; Compliance and Impedance Control; Computer Science - Robotics; Control systems design; Controllers; Degrees of freedom; Exoskeletons; Haptic interfaces; Haptics; Haptics and Haptic Interfaces; Human-robot interaction; Impedance; Physical Human-Robot Interaction; Robot control; Robots; Stability criteria; Subsystems; Task analysis; Virtual environments.
+
  - (2023) "Observer-Based Variable Impedance Control Using Moving Horizon Estimation for Robot Machining Thin-Walled Workpieces", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2023.3292856.<br>
 **Keywords**: Impedance; Machining; Force; Service robots; Robot sensing systems; Task analysis; Surface impedance; Intelligent and flexible manufacturing; moving horizon estimation; robot-environment interaction; robotic machining; variable impedance control.
 
@@ -326,6 +329,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2020) "Admittance-Based Controller Design for Physical Human–Robot Interaction in the Constrained Task Space", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2020.2983225.<br>
 **Keywords**: Adaptive neural network (NN) control; Admittance; admittance control; Human-robot interaction; integral barrier Lyapunov function (IBLF); Lyapunov methods; Manipulator dynamics; motion constraint; Neural networks; physical human–robot interaction (pHRI); Service robots.
 
+ - (2020) "Compliant Control and Compensation for A Compact Cable-Driven Robotic Manipulator", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2020.3007382.<br>
+**Keywords**: compliance and impedance control; Dentistry; Hysteresis motors; Impedance; Kinematics; Manipulators; mechanism design; Medical robots and systems.
+
  - (2020) "Design and Force-Tracking Impedance Control of 2-DOF Wall-Cleaning Manipulator via Disturbance Observer", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2020.2978251.<br>
 **Keywords**: Brushes; Cleaning; Disturbance observer (DOB); Force; force-tracking; Impedance; impedance control; Manipulator dynamics; wall-cleaning.
 
@@ -356,5 +362,3 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2016) "A Review of Algorithms for Compliant Control of Stiff and Fixed-Compliance Robots", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2015.2465849.<br>
 **Keywords**: Active compliance; Active Compliance; Actuators; Admittance; admittance control; Admittance Control; compliance; Compliance; flexible joints; Flexible Joints; Force; force control; Force control; Force Control; Impedance; impedance control; Impedance Control; interaction control; Interaction Control; Joints; Robots; series elastic actuators; Series Elastic Actuators.
 
- - (2020) "Compliant Control and Compensation for A Compact Cable-Driven Robotic Manipulator", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2020.3007382.<br>
-**Keywords**: compliance and impedance control; Dentistry; Hysteresis motors; Impedance; Kinematics; Manipulators; mechanism design; Medical robots and systems.
