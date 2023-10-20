@@ -207,3 +207,33 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 - (2023) Electrode Shift Fast Adaptive Correction for Improving Myoelectric Control Interface Performance **in** *IEEE Sens. J.* doi:[10.1109/JSEN.2023.3312403](https://ieeexplore.ieee.org/document/10247118/)
 
+
+## Review
+
+## System Development for sEMG
+### Noise
+### Hardware components
+### Signal acquisition and processing
+
+## Intention Recognition and Motion Classification
+
+
+## Joint
+### Joint force/torque
+### Joint stiffness
+
+
+
+## Muscle Status
+### Biomedical
+### Muscle fatigue
+### Skeletal muscle model
+### Muscle evaluation
+
+
+
+
+## Human-Robot Interaction
+### Exoskeleton
+### Rehabilitation
+### Surgical robots
