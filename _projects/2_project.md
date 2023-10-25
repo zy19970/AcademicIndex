@@ -148,6 +148,253 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Intention Recognition and Motion Classification
+ - (2023) "Multimodal Fusion Framework Based on Statistical Attention and Contrastive Attention for Sign Language Recognition", **in** *IEEE Transactions on Mobile Computing*. **DOI**: 10.1109/TMC.2023.3235935.
+
+ - (2023) "Simultaneous Estimation of Hand Configurations and Finger Joint Angles Using Forearm Ultrasound", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2023.3237774.
+
+ - (2023) "Measuring Motor Unit Discharge, Myofiber Vibration, and Haemodynamics for Enhanced Myoelectric Gesture Recognition", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3234092.
+
+ - (2023) "Silent Speech Recognition Based on High-Density Surface Electromyogram Using Hybrid Neural Networks", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2022.3226197.
+
+ - (2023) "A Hybrid Multimodal Fusion Framework for sEMG-ACC-Based Hand Gesture Recognition", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3231925.
+
+ - (2023) "ICA-CNN: Gesture Recognition Using CNN With Improved Channel Attention Mechanism and Multimodal Signals", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3236682.
+
+ - (2023) "Real-Time Wrist Motion Decoding With High Framerate Electrical Impedance Tomography (EIT)", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3228018.
+
+ - (2023) "A BERT Based Method for Continuous Estimation of Cross-Subject Hand Kinematics From Surface Electromyographic Signals", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3216528.
+
+ - (2023) "A Novel Interval Type-2 Fuzzy Classifier Based on Explainable Neural Network for Surface Electromyogram Gesture Recognition", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2023.3310524.
+
+ - (2023) "Electrode Shift Fast Adaptive Correction for Improving Myoelectric Control Interface Performance", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3312403.
+
+ - (2023) "An Electrode Configuration Framework for sEMG-Based Gesture Recognition With Muscle-Matched Layouts", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3311054.
+
+ - (2023) "High Performance Wearable Ultrasound as a Human-Machine Interface for wrist and hand kinematic tracking", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3307952.
+
+ - (2023) "DSDAN: Dual-Step Domain Adaptation Network Based on Bidirectional Knowledge Distillation for Cross-User Myoelectric Pattern Recognition", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3305619.
+
+ - (2023) "Force Feedback-Based Gamification: Performance Validation of Squat Exergame Using Pneumatic Gel Muscles and Dynamic Difficulty Adjustment", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3306285.
+
+ - (2023) "Subject-Independent Estimation of Continuous Movements Using CNN-LSTM for a Home-Based Upper Limb Rehabilitation System", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3303701.
+
+ - (2023) "A Transformer-based Multi-task Learning Framework for Myoelectric Pattern Recognition Supporting Muscle Force Estimation", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3298797.
+
+ - (2023) "Enhanced Lightweight CNN Using Joint Classification With Averaging Probability for sEMG-Based Subject-Independent Hand Gesture Recognition", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3296649.
+
+ - (2023) "Iterative Self-Training based Domain Adaptation for Cross-User sEMG Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3293334.
+
+ - (2023) "Research on Multimodal Fusion Recognition Method of Upper Limb Motion Patterns", **in** *IEEE transactions on instrumentation and measurement*. **DOI**: 10.1109/TIM.2023.3289556.
+
+ - (2023) "Interventionalist Hand Motion Recognition With Convolutional Neural Network in Robot-Assisted Coronary Interventions", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3281009.
+
+ - (2023) "LSTM-AE for Domain Shift Quantification in Cross-day Upper-limb Motion Estimation Using Surface Electromyography", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3281455.
+
+ - (2023) "Gesture Recognition Based on EEMD and Cosine Laplacian Eigenmap", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3279555.
+
+ - (2023) "Handwritten Digits Recognition From sEMG: Electrodes Location and Feature Selection", **in** *IEEE Access*. **DOI**: 10.1109/ACCESS.2023.3279735.
+
+ - (2023) "Extracting Spatial Muscle Activation Patterns in Facial and Neck Muscles for Silent Speech Recognition Using High-Density sEMG", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3277930.
+
+ - (2023) "A CNN-Transformer Hybrid Recognition Approach for sEMG-Based Dynamic Gesture Prediction", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3273651.
+
+ - (2023) "Hand Movement Recognition and Salient Tremor Feature Extraction with Wearable Devices in Parkinson’s Patients", **in** *IEEE Transactions on Cognitive and Developmental Systems*. **DOI**: 10.1109/TCDS.2023.3266812.
+
+ - (2023) "Multimodal Fusion Convolutional Neural Network Based on sEMG and Accelerometer Signals for Intersubject Upper Limb Movement Classification", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3266872.
+
+ - (2023) "sEMG-Based Gesture Recognition Method for Coal Mine Inspection Manipulator Using Multistream CNN", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3264646.
+
+ - (2023) "Decoding Electromyographic Signal With Multiple Labels for Hand Gesture Recognition", **in** *IEEE Signal Processing Letters*. **DOI**: 10.1109/LSP.2023.3264417.
+
+ - (2023) "Multi-Attention Feature Fusion Network for Accurate Estimation of Finger Kinematics From Surface Electromyographic Signals", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2023.3252817.
+
+ - (2023) "sEMG-Based Gesture Recognition Using Temporal History", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3261336.
+
+ - (2023) "Lower Limb Motion Classification Using Energy Density Features of Surface Electromyography Signals’ Activation Region and Dynamic Ensemble Model", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3243612.
+
+ - (2023) "Robust Long-Term Hand Grasp Recognition With Raw Electromyographic Signals Using Multidimensional Uncertainty-Aware Models", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3236982.
+
+ - (2022) "CNN Confidence Estimation for Rejection-Based Hand Gesture Classification in Myoelectric Control", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2021.3123186.
+
+ - (2022) "An EMG-Based Deep Learning Approach for Multi-DOF Wrist Movement Decoding", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2021.3097666.
+
+ - (2022) "A Hierarchical Hand Gesture Recognition Framework for Sports Referee Training-Based EMG and Accelerometer Sensors", **in** *IEEE Transactions on Cybernetics*. **DOI**: 10.1109/TCYB.2020.3007173.
+
+ - (2022) "Recognizing Missing Electromyography Signal by Data Split Reorganization Strategy and Weight-Based Multiple Neural Network Voting Method", **in** *IEEE Transactions on Neural Networks and Learning Systems*. **DOI**: 10.1109/TNNLS.2021.3105595.
+
+ - (2022) "A Novel Torque-Controlled Hand Exoskeleton to Decode Hand Movements Combining Semg and Fingers Kinematics: A Feasibility Study", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2021.3111412.
+
+ - (2022) "A Novel Myoelectric Control Scheme Supporting Synchronous Gesture Recognition and Muscle Force Estimation", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3166764.
+
+ - (2022) "Domain Adaptation With Self-Guided Adaptive Sampling Strategy: Feature Alignment for Cross-User Myoelectric Pattern Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3173946.
+
+ - (2022) "SeNic: An Open Source Dataset for sEMG-Based Gesture Recognition in Non-Ideal Conditions", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3173708.
+
+ - (2022) "Metric Learning for Robust Gait Phase Recognition for a Lower Limb Exoskeleton Robot Based on sEMG", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2022.3166543.
+
+ - (2022) "A New Deep Anomaly Detection-Based Method for User Authentication Using Multichannel Surface EMG Signals of Hand Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2022.3164162.
+
+ - (2022) "Measurement of Stride Time by Machine Learning: Sensitivity Analysis for the Simplification of the Experimental Protocol", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2022.3165257.
+
+ - (2022) "Unsupervised Cross-User Adaptation in Taste Sensation Recognition Based on Surface Electromyography", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2022.3160834.
+
+ - (2022) "Perilaryngeal-Cranial Functional Muscle Network Differentiates Vocal Tasks: A Multi-Channel sEMG Approach", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2022.3175948.
+
+ - (2022) "A CNN-Attention Network for Continuous Estimation of Finger Kinematics from Surface Electromyography", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2022.3169448.
+
+ - (2022) "MyoKey: Inertial Motion Sensing and Gesture-based QWERTY Keyboard for Extended Realities", **in** *IEEE Transactions on Mobile Computing*. **DOI**: 10.1109/TMC.2022.3156939.
+
+ - (2022) "Lower Limb Motion Intention Recognition Based on sEMG Fusion Features", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3146446.
+
+ - (2022) "Making a Case for Application of the Unsupervised PCA Algorithm for Simultaneous and Proportional Myoelectric Intention Estimation of Individual Fingers", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2022.3152234.
+
+ - (2022) "Reliability Analysis for Finger Movement Recognition With Raw Electromyographic Signal by Evidential Convolutional Networks", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3141593.
+
+ - (2022) "Towards Zero Retraining for Multiday Motion Recognition via a Fully Unsupervised Adaptive Approach and Fabric Myoelectric Armband", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3144323.
+
+ - (2022) "Toward Generalization of sEMG-Based Pattern Recognition: A Novel Feature Extraction for Gesture Recognition", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2022.3141163.
+
+ - (2022) "Unknown Motion Rejection in Myoelectric Pattern Recognition Using Convolutional Prototype Network", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3143141.
+
+ - (2022) "Deep Heterogeneous Dilation of LSTM for Transient-Phase Gesture Prediction Through High-Density Electromyography: Towards Application in Neurorobotics", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2022.3142721.
+
+ - (2022) "Random Channel Masks for Regularization of Least Squares-Based Finger EMG-Force Modeling to Improve Cross-Day Performance", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3194246.
+
+ - (2022) "Cross Modality Knowledge Distillation Between A-Mode Ultrasound and Surface Electromyography", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2022.3195264.
+
+ - (2022) "Simultaneous sEMG Recognition of Gestures and Force Levels for Interaction With Prosthetic Hand", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3199809.
+
+ - (2022) "Improving the Robustness and Adaptability of sEMG-Based Pattern Recognition Using Deep Domain Adaptation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2022.3197831.
+
+ - (2022) "A Simultaneous Gesture Classification and Force Estimation Strategy Based on Wearable A-Mode Ultrasound and Cascade Model", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3196926.
+
+ - (2022) "Robust Synchronized Data Acquisition for Biometric Authentication", **in** *IEEE Transactions on Industrial Informatics*. **DOI**: 10.1109/TII.2022.3182326.
+
+ - (2022) "Optimization of HD-sEMG-Based Cross-Day Hand Gesture Classification by Optimal Feature Extraction and Data Augmentation", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2022.3175408.
+
+ - (2022) "A Multifeatured Time–Frequency Neural Network System for Classifying sEMG", **in** *IEEE Transactions on Circuits and Systems II: Express Briefs*. **DOI**: 10.1109/TCSII.2022.3181057.
+
+ - (2022) "Incremental Adaptive Gesture Classifier for Upper Limb Prostheses", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3179472.
+
+ - (2022) "Movements Classification Through sEMG With Convolutional Vision Transformer and Stacking Ensemble Learning", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3179535.
+
+ - (2022) "sEMG-Based Minimally Supervised Regression Using Soft-DTW Neural Networks for Robot Hand Grasping Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2022.3193247.
+
+ - (2022) "sEMG-Based Gesture Recognition Using Deep Learning From Noisy Labels", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2022.3179630.
+
+ - (2022) "Optimizing the Cross-Day Performance of Electromyogram Biometric Decoder", **in** *IEEE Internet of Things Journal*. **DOI**: 10.1109/JIOT.2022.3218739.
+
+ - (2022) "Multiresolution Dual-Polynomial Decomposition Approach for Optimized Characterization of Motor Intent in Myoelectric Control Systems", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2022.3221799.
+
+ - (2022) "An Extended Spatial Transformer Convolutional Neural Network for Gesture Recognition and Self-calibration Based on Sparse sEMG Electrodes", **in** *IEEE Transactions on Biomedical Circuits and Systems*. **DOI**: 10.1109/TBCAS.2022.3222196.
+
+ - (2022) "Fusing sEMG and EEG to Increase the Robustness of Hand Motion Recognition Using Functional Connectivity and GCN", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3221417.
+
+ - (2022) "User-Tailored Hand Gesture Recognition System for Wearable Prosthesis and Armband Based on Surface Electromyogram", **in** *IEEE transactions on instrumentation and measurement*. **DOI**: 10.1109/TIM.2022.3217868.
+
+ - (2022) "A Multimodal Multilevel Converged Attention Network for Hand Gesture Recognition With Hybrid sEMG and A-Mode Ultrasound Sensing", **in** *IEEE Transactions on Cybernetics*. **DOI**: 10.1109/TCYB.2022.3204343.
+
+ - (2022) "Hand Gestures Recognition for Human-Machine Interfaces: A Low-Power Bio-Inspired Armband", **in** *IEEE Transactions on Biomedical Circuits and Systems*. **DOI**: 10.1109/TBCAS.2022.3211424.
+
+ - (2022) "AE-CNN-Based Multisource Data Fusion for Gait Motion Step Length Estimation", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3206883.
+
+ - (2022) "Spectral Image-Based Multiday Surface Electromyography Classification of Hand Motions Using CNN for Human–Computer Interaction", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3204121.
+
+ - (2022) "Optimizing the Cross-Day Performance of Electromyogram Biometric Decoder", **in** *IEEE Internet of Things Journal*. **DOI**: 10.1109/JIOT.2022.3218739.
+
+ - (2021) "Adaptive Electrode Calibration Method Based on Muscle Core Activation Regions and Its Application in Myoelectric Pattern Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2020.3029099.
+
+ - (2021) "Inter-Subject Domain Adaptation for CNN-Based Wrist Kinematics Estimation Using sEMG", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2021.3086401.
+
+ - (2021) "A CNN-LSTM Hybrid Model for Wrist Kinematics Estimation Using Surface Electromyography", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2020.3036654.
+
+ - (2021) "A Gesture Recognition System Based on Time Domain Features and Linear Discriminant Analysis", **in** *IEEE Transactions on Cognitive and Developmental Systems*. **DOI**: 10.1109/TCDS.2018.2884942.
+
+ - (2021) "Performance Comparison of Gesture Recognition System Based on Different Classifiers", **in** *IEEE Transactions on Cognitive and Developmental Systems*. **DOI**: 10.1109/TCDS.2020.2969297.
+
+ - (2021) "A Transfer Learning Model for Gesture Recognition Based on the Deep Features Extracted by CNN", **in** *IEEE Transactions on Artificial Intelligence*. **DOI**: 10.1109/TAI.2021.3098253.
+
+ - (2021) "A Hybrid WD-EEMD sEMG Feature Extraction Technique for Lower Limb Activity Recognition", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2021.3095594.
+
+ - (2021) "A Tensor-Based Approach Using Multilinear SVD for Hand Gesture Recognition From sEMG Signals", **in** *IEEE sensors journal*. **DOI**: 10.1109/JSEN.2020.3042540.
+
+ - (2021) "Temporal Dilation of Deep LSTM for Agile Decoding of sEMG: Application in Prediction of Upper-Limb Motor Intention in NeuroRobotics", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2021.3091698.
+
+ - (2021) "Quantifying Spatial Activation Patterns of Motor Units in Finger Extensor Muscles", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2020.3002329.
+
+ - (2021) "A Rapid Spiking Neural Network Approach With an Application on Hand Gesture Recognition", **in** *IEEE Transactions on Cognitive and Developmental Systems*. **DOI**: 10.1109/TCDS.2019.2918228.
+
+ - (2021) "Shoulder Motion Intention Detection Through Myoelectric Pattern Recognition", **in** *IEEE Sensors Letters*. **DOI**: 10.1109/LSENS.2021.3100607.
+
+ - (2021) "Automatic Speech Recognition in Different Languages Using High-Density Surface Electromyography Sensors", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2020.3037061.
+
+ - (2021) "Neuromechanical Signal-Based Parallel and Scalable Model for Lower Limb Movement Recognition", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2021.3076114.
+
+ - (2021) "Robust Continuous Hand Motion Recognition Using Wearable Array Myoelectric Sensor", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2021.3098120.
+
+ - (2021) "Surface Electromyography-Controlled Pedestrian Collision Avoidance: A Driving Simulator Study", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2021.3070597.
+
+ - (2021) "Multimodal Data Fusion of Electromyography and Acoustic Signals for Thai Syllable Recognition", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2020.3034158.
+
+ - (2021) "Hand Gesture Recognition based on Surface Electromyography using Convolutional Neural Network with Transfer Learning Method", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2020.3009383.
+
+ - (2021) "Evaluation of Synergy-Based Hand Gesture Recognition Method Against Force Variation for Robust Myoelectric Control", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2021.3124744.
+
+ - (2021) "Prediction of larynx function using multichannel surface EMG classification", **in** *IEEE Trans Med Robot Bionics*. **DOI**: 10.1109/TMRB.2021.3122966.
+
+ - (2021) "FS-HGR: Few-Shot Learning for Hand Gesture Recognition via Electromyography", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2021.3077413.
+
+ - (2021) "Machine-Learning-Based Prediction of Gait Events From EMG in Cerebral Palsy Children", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2021.3076366.
+
+ - (2020) "A Novel Point-in-Polygon-Based sEMG Classifier for Hand Exoskeleton Systems", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2020.3044113.
+
+ - (2020) "Improved High-Density Myoelectric Pattern Recognition Control Against Electrode Shift Using Data Augmentation and Dilated Convolutional Neural Network", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2020.3030931.
+
+ - (2020) "Comparative Analysis of Wearable A-Mode Ultrasound and sEMG for Muscle-Computer Interface", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2019.2962499.
+
+ - (2020) "Training-Free Bayesian Self-Adaptive Classification for sEMG Pattern Recognition Including Motion Transition", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2019.2947089.
+
+ - (2020) "A Fully Embedded Adaptive Real-Time Hand Gesture Classifier Leveraging HD-sEMG and Deep Learning", **in** *IEEE Transactions on Biomedical Circuits and Systems*. **DOI**: 10.1109/TBCAS.2019.2955641.
+
+ - (2020) "Robust Real-Time Embedded EMG Recognition Framework Using Temporal Convolutional Networks on a Multicore IoT Processor", **in** *IEEE Transactions on Biomedical Circuits and Systems*. **DOI**: 10.1109/TBCAS.2019.2959160.
+
+ - (2020) "Single-Channel sEMG Dictionary Learning Classification of Ingestive Behavior on Cows", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2020.2977768.
+
+ - (2020) "Subject-Independent sEMG Pattern Recognition by Using a Muscle Source Activation Model", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2020.3006824.
+
+ - (2020) "A Hybrid Underwater Manipulator System With Intuitive Muscle-Level sEMG Mapping Control", **in** *IEEE robotics and automation letters*. **DOI**: 10.1109/LRA.2020.2974700.
+
+ - (2020) "Comparative analysis among feature selection of sEMG signal for hand gesture classification by armband", **in** *IEEE Latin America Transactions*. **DOI**: 10.1109/TLA.2020.9099752.
+
+ - (2020) "Locomo-Net: A Low -Complex Deep Learning Framework for sEMG-Based Hand Movement Recognition for Prosthetic Control", **in** *IEEE Journal of Translational Engineering in Health and Medicine*. **DOI**: 10.1109/JTEHM.2020.3023898.
+
+ - (2020) "MyoNet: A Transfer-Learning-Based LRCN for Lower Limb Movement Recognition and Knee Joint Angle Prediction for Remote Monitoring of Rehabilitation Progress From sEMG", **in** *IEEE Journal of Translational Engineering in Health and Medicine*. **DOI**: 10.1109/JTEHM.2020.2972523.
+
+ - (2020) "Learning Effective Spatial–Temporal Features for sEMG Armband-Based Gesture Recognition", **in** *IEEE Internet of Things Journal*. **DOI**: 10.1109/JIOT.2020.2979328.
+
+ - (2020) "Finger Joint Angle Estimation Based on Motoneuron Discharge Activities", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2019.2926307.
+
+ - (2020) "Resilient EMG Classification to Enable Reliable Upper-Limb Movement Intent Detection", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2020.3024947.
+
+ - (2020) "Hear Sign Language: A Real-time End-to-End Sign Language Recognition System", **in** *IEEE Transactions on Mobile Computing*. **DOI**: 10.1109/TMC.2020.3038303.
+
+ - (2020) "Exploration of Chinese Sign Language Recognition Using Wearable Sensors Based on Deep Belief Net", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2019.2941535.
+
+ - (2019) "Adaptive Hybrid Classifier for Myoelectric Pattern Recognition Against the Interferences of Outlier Motion, Muscle Fatigue, and Electrode Doffing", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2911316.
+
+ - (2019) "Wrist and Finger Gesture Recognition With Single-Element Ultrasound Signals: A Comparison With Single-Channel Surface Electromyogram", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2018.2872593.
+
+ - (2019) "Design of a Flexible Wearable Smart sEMG Recorder Integrated Gradient Boosting Decision Tree Based Hand Gesture Recognition", **in** *IEEE Transactions on Biomedical Circuits and Systems*. **DOI**: 10.1109/TBCAS.2019.2953998.
+
+ - (2019) "Hierarchical Motion Segmentation Through sEMG for Continuous Lower Limb Motions", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2019.2932343.
+
+ - (2019) "Surface-Electromyography-Based Gesture Recognition by Multi-View Deep Learning", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2019.2899222.
+
+ - (2019) "A CNN-Based Method for Intent Recognition Using Inertial Measurement Units and Intelligent Lower Limb Prosthesis", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2909585.
+
+ - (2019) "Foot Gesture Recognition Through Dual Channel Wearable EMG System", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2019.2931715.
+
+ - (2019) "Adaptive Oscillator-Based Robust Control for Flexible Hip Assistive Exoskeleton", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2019.2926678.
 
 
 
