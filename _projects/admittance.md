@@ -9,6 +9,13 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: September 2023**)
 
+ - (2023) "Error State Probability-Based Compliance Control for Peg-in-Hole Assembly", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2023.3322566.<br>
+**Keywords**: compliance control; Gaussian mixture model (GMM); Peg-in-hole assembly.
+
+ - (2023) "A Data-Driven and Personalized Stance Symmetry Controller for Robotic Ankle-Foot Prostheses: A Preliminary Investigation", **in** *IEEE transactions on neural systems and rehabilitation engineering*. **DOI**: 10.1109/TNSRE.2023.3322124.<br>
+**Keywords**: biomechanics; control systems; Impedance; iterative learning control; Mechanical engineering; Powered prosthetics; Prosthetics; Real-time systems; Torque; Trajectory; Tuning.
+
+
  - (2023) "Feature-Engineering Enabled Multi-Objective Evolutionary Impedance Fitting Technique", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2023.3288191.<br>
 **Keywords**: Equivalent circuits; Evolutionary algorithms; Industrial research; Job analysis; Market Research; Multiobjective optimization; Timing circuits.
 
