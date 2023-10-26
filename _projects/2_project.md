@@ -148,6 +148,12 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Intention Recognition and Motion Classification
+ - (2023) "sEMG-Based Small Rotation Invariant Gesture Recognition Using Multivariate Fast Iterative Filtering", **in** *IEEE Sensors Letters*. **DOI**: 10.1109/LSENS.2023.3326459.
+
+ - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
+
+ - (2023) "Optimal Motor Unit Subset Selection for Accurate Motor Intention Decoding: Towards Dexterous Real-Time Interfacing", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3326065.
+
  - (2023) "Dynamic Hand Gesture Recognition Based on A-Mode Ultrasound Sensing: Proposing an Algorithm Based on the Long Short-Term Memory Framework", **in** *IEEE Systems, Man, and Cybernetics Magazine*. **DOI**: 10.1109/MSMC.2023.3299431.
 
  - (2023) "TraHGR: Transformer for Hand Gesture Recognition via ElectroMyography", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3324252.
@@ -545,6 +551,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Grip and Electrophysiological Sensor-Based Estimation of Muscle Fatigue While Holding Steering Wheel in Different Positions", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2018.2863023.
 
 ### Skeletal muscle model
+ - (2023) "Towards Robust and Efficient Musculoskeletal Modelling Using Distributed Physics-informed Deep Learning", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3325522.
+
  - (2023) "Physics-Informed Deep Learning for Musculoskeletal Modeling: Predicting Muscle Forces and Joint Kinematics From Surface EMG", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2022.3226860.
 
  - (2023) "Evaluation of a Fused Sonomyography and Electromyography-Based Control on a Cable-Driven Ankle Exoskeleton", **in** *IEEE Transactions on Robotics*. **DOI**: 10.1109/TRO.2023.3236958.
@@ -923,6 +931,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Wrist and Finger Gesture Recognition With Single-Element Ultrasound Signals: A Comparison With Single-Channel Surface Electromyogram", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2018.2872593.
 
 ### Machine learning
+ - (2023) "Towards Robust and Efficient Musculoskeletal Modelling Using Distributed Physics-informed Deep Learning", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3325522.
+
  - (2023) "Dynamic Hand Gesture Recognition Based on A-Mode Ultrasound Sensing: Proposing an Algorithm Based on the Long Short-Term Memory Framework", **in** *IEEE Systems, Man, and Cybernetics Magazine*. **DOI**: 10.1109/MSMC.2023.3299431.
 
   - (2023) "TraHGR: Transformer for Hand Gesture Recognition via ElectroMyography", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3324252.
@@ -1097,6 +1107,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### HD-sEMG
+ - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
+
+ - (2023) "Optimal Motor Unit Subset Selection for Accurate Motor Intention Decoding: Towards Dexterous Real-Time Interfacing", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3326065.
 
  - (2023) "A Novel Event-Driven Spiking Convolutional Neural Network for Electromyography Pattern Recognition", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3258606.
 

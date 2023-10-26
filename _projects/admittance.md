@@ -7,7 +7,13 @@ category: work
 ---
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
-I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: September 2023**)
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: October 2023**)
+
+ - (2023) "Unified Power and Admittance Adaptation for Safe and Effective Physical Interaction with Unmodelled Dynamic Environments", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3327679.<br>
+**Keywords**: Task analysis; Admittance; Safety; Manipulator dynamics; Heuristic algorithms; Behavioral sciences; Collaboration.
+
+ - (2023) "Composite Learning Variable Impedance Robot Control With Stability and Passivity Guarantees", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3327675.<br>
+**Keywords**: Physical human-robot interaction; compliance and impedance Control; adaptive control; parameter convergence.
 
  - (2023) "Error State Probability-Based Compliance Control for Peg-in-Hole Assembly", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2023.3322566.<br>
 **Keywords**: compliance control; Gaussian mixture model (GMM); Peg-in-hole assembly.
