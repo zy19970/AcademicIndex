@@ -9,6 +9,18 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: October 2023**)
 
+ - (2023) "Hybrid Force/Position Control of Multi-Mobile Manipulators for Cooperative Operation Without Force Measurements", **in** *IEEE Transactions on Circuits and Systems I: Regular Papers*. **DOI**: 10.1109/TCSI.2023.3325218.<br>
+**Keywords**: Manipulators; Manipulator dynamics; Robots; Wheels; Transportation; Task analysis; Robot kinematics.
+
+ - (2023) "A Robotic Manipulator Using Dual-Motor Joints: Prototype Design and Anti-Backlash Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3327867.<br>
+**Keywords**: Robots; Torque; Gears; Couplings; Robot sensing systems; Prototypes; Shafts.
+
+ - (2023) "Composite Learning Variable Impedance Robot Control With Stability and Passivity Guarantees", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3327675.<br>
+**Keywords**: Impedance; Robots; Task analysis; Human-robot interaction; Adaptive control; Adaptation models; Collaboration.
+
+ - (2023) "Data-Driven Phase-Based Control of a Powered Knee-Ankle Prosthesis for Variable-Incline Stair Ascent and Descent", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2023.3328656.<br>
+**Keywords**: Stairs; Impedance; Kinematics; Tuning; Legged locomotion; Knee; Biomimetics.
+
  - (2023) "Unified Power and Admittance Adaptation for Safe and Effective Physical Interaction with Unmodelled Dynamic Environments", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3327679.<br>
 **Keywords**: Task analysis; Admittance; Safety; Manipulator dynamics; Heuristic algorithms; Behavioral sciences; Collaboration.
 

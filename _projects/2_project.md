@@ -148,6 +148,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Intention Recognition and Motion Classification
+ - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
+
  - (2023) "sEMG-Based Small Rotation Invariant Gesture Recognition Using Multivariate Fast Iterative Filtering", **in** *IEEE Sensors Letters*. **DOI**: 10.1109/LSENS.2023.3326459.
 
  - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
@@ -1107,6 +1109,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### HD-sEMG
+ - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
+
  - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
 
  - (2023) "Optimal Motor Unit Subset Selection for Accurate Motor Intention Decoding: Towards Dexterous Real-Time Interfacing", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3326065.
