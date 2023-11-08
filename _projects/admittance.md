@@ -15,9 +15,6 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2023) "A Robotic Manipulator Using Dual-Motor Joints: Prototype Design and Anti-Backlash Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3327867.<br>
 **Keywords**: Robots; Torque; Gears; Couplings; Robot sensing systems; Prototypes; Shafts.
 
- - (2023) "Composite Learning Variable Impedance Robot Control With Stability and Passivity Guarantees", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3327675.<br>
-**Keywords**: Impedance; Robots; Task analysis; Human-robot interaction; Adaptive control; Adaptation models; Collaboration.
-
  - (2023) "Data-Driven Phase-Based Control of a Powered Knee-Ankle Prosthesis for Variable-Incline Stair Ascent and Descent", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2023.3328656.<br>
 **Keywords**: Stairs; Impedance; Kinematics; Tuning; Legged locomotion; Knee; Biomimetics.
 
