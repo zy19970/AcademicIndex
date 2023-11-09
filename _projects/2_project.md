@@ -17,6 +17,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Toward Portable Hybrid Surface Electromyography/A-Mode Ultrasound Sensing for Human–Machine Interface", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2019.2903532.
 
 ### Hardware components
+ - (2023) "Wireless sEMG Sensor for Neck Muscle Activity Measurement and Posture Classification using Machine Learning", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3329383.
+
+ - (2023) "Sensing and controlling strategy for upper extremity prosthetics based on  piezoelectric micromachined ultrasound transducer", **in** *IEEE Trans Biomed Eng*. **DOI**: 10.1109/TBME.2023.3329826.
+
  - (2023) "A MEMS-Based Wearable, Flexible Embedded High-Density Sensor With Self-Adhesive PEDOT:PSS Gel for HD-sEMG Monitoring", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3263877.
 
  - (2023) "A Wearable Co-located Neural-Mechanical Signal Sensing Device for Simultaneous Bimodal Muscular Activity Detection", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3287729.
@@ -80,6 +84,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2916397.
 
 ### Signal acquisition and processing
+ - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
+
+ - (2023) "Self-Supervised Regression Of sEMG Signals Combining Non-Negative Matrix Factorization With Deep Neural Networks For Robot Hand Multiple Grasping Motion Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3329764.
+
  - (2023) "A CNN-Transformer Hybrid Recognition Approach for sEMG-Based Dynamic Gesture Prediction", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3273651.
 
  - (2023) "A Novel and Efficient Surface Electromyography Decomposition Algorithm Using Local Spatial Information", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2022.3210019.
@@ -148,6 +156,12 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Intention Recognition and Motion Classification
+ - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
+
+ - (2023) "Bridging Human-Robot Co-Adaptation Via Biofeedback for Continuous Myoelectric Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3330053.
+
+ - (2023) "sEMG and IMU Data-based Hand Gesture Recognition Method using Multi-stream CNN with a Fine-tuning Transfer Framework", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3327999.
+
  - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
 
  - (2023) "sEMG-Based Small Rotation Invariant Gesture Recognition Using Multivariate Fast Iterative Filtering", **in** *IEEE Sensors Letters*. **DOI**: 10.1109/LSENS.2023.3326459.
@@ -431,6 +445,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### Joint force/torque/angle
+ - (2023) "EMG-Based Intention Detection Using Deep Learning for Shared Control in Upper-Limb Assistive Exoskeletons", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3330678.
+
  - (2023) "A Novel Hybrid Unsupervised Domain Adaptation Method for Cross-subject Joint Angle Estimation from Surface Electromyography", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3317680.
 
  - (2023) "A Transfer Learning Based Cross-Subject Generic Model for Continuous Estimation of Finger Joint Angles From a New User", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3234989.
@@ -789,6 +805,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ### Surgical robots
 ### Myoelectric control
+ - (2023) "Self-Supervised Regression Of sEMG Signals Combining Non-Negative Matrix Factorization With Deep Neural Networks For Robot Hand Multiple Grasping Motion Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3329764.
+
+ - (2023) "An online human dynamic arm strength perception method based on surface electromyography signals for human-robot collaboration", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3330226.
+
  - (2023) "Decision-change Informed Rejection Improves Robustness in Pattern Recognition-based Myoelectric Control", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3316599.
 
  - (2023) "MyoPassivity Map: Does Multi-Channel sEMG Correlate With the Energetic Behavior of Upper-Limb Biomechanics During Physical Human-Robot Interaction?", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3313489.
@@ -850,6 +870,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ## Concerned Approach
 ### Multimodal fusion
+ - (2023) "sEMG and IMU Data-based Hand Gesture Recognition Method using Multi-stream CNN with a Fine-tuning Transfer Framework", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3327999.
+
  - (2023) "A High-Rate Hybrid BCI System Based on High-Frequency SSVEP and sEMG", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3321722.
 
  - (2023) "Dynamic Hand Gesture Recognition Based on A-Mode Ultrasound Sensing: Proposing an Algorithm Based on the Long Short-Term Memory Framework", **in** *IEEE Systems, Man, and Cybernetics Magazine*. **DOI**: 10.1109/MSMC.2023.3299431.
@@ -933,6 +955,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Wrist and Finger Gesture Recognition With Single-Element Ultrasound Signals: A Comparison With Single-Channel Surface Electromyogram", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2018.2872593.
 
 ### Machine learning
+ - (2023) "EMG-Based Intention Detection Using Deep Learning for Shared Control in Upper-Limb Assistive Exoskeletons", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3330678.
+
  - (2023) "Towards Robust and Efficient Musculoskeletal Modelling Using Distributed Physics-informed Deep Learning", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3325522.
 
  - (2023) "Dynamic Hand Gesture Recognition Based on A-Mode Ultrasound Sensing: Proposing an Algorithm Based on the Long Short-Term Memory Framework", **in** *IEEE Systems, Man, and Cybernetics Magazine*. **DOI**: 10.1109/MSMC.2023.3299431.
@@ -1109,6 +1133,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### HD-sEMG
+ - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
+
  - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
 
  - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
