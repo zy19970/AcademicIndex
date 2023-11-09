@@ -9,6 +9,9 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: October 2023**)
 
+ - (2023) "Region-Based Force Control Strategy for Improving Profile Accuracy of Blade on 7-Axis Linkage Robotic Grinding System", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2023.3325618.<br>
+**Keywords**: Force; Robots; Blades; Force control; Machining; Robot sensing systems; Couplings.
+
  - (2023) "Hybrid Force/Position Control of Multi-Mobile Manipulators for Cooperative Operation Without Force Measurements", **in** *IEEE Transactions on Circuits and Systems I: Regular Papers*. **DOI**: 10.1109/TCSI.2023.3325218.<br>
 **Keywords**: Manipulators; Manipulator dynamics; Robots; Wheels; Transportation; Task analysis; Robot kinematics.
 
