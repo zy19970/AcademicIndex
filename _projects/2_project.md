@@ -84,6 +84,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2916397.
 
 ### Signal acquisition and processing
+ - (2023) "Adaptive Online Decomposition of Surface EMG Using Progressive FastICA Peel-off", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3331498.
+
+ - (2023) "sEMG based knee abnormality detection using EWT-Entropy-Ensemble algorithm during walking", **in** *IEEE Sensors Letters*. **DOI**: 10.1109/LSENS.2023.3332602.
+
  - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
 
  - (2023) "Self-Supervised Regression Of sEMG Signals Combining Non-Negative Matrix Factorization With Deep Neural Networks For Robot Hand Multiple Grasping Motion Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3329764.
@@ -1133,6 +1137,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### HD-sEMG
+ - (2023) "Adaptive Online Decomposition of Surface EMG Using Progressive FastICA Peel-off", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3331498.
+
  - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
 
  - (2023) "Feasibility of Wrist-Worn, Cancelable, Real-Time Biometric Authentication via HD-sEMG and Dynamic Gestures", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3327490.
