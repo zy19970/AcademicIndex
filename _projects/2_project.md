@@ -160,6 +160,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Intention Recognition and Motion Classification
+ - (2023) "Alignment-Enhanced Interactive Fusion Model for Complete and Incomplete Multimodal Hand Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3335101.
+
  - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
 
  - (2023) "Bridging Human-Robot Co-Adaptation Via Biofeedback for Continuous Myoelectric Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3330053.
@@ -874,6 +876,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ## Concerned Approach
 ### Multimodal fusion
+ - (2023) "Alignment-Enhanced Interactive Fusion Model for Complete and Incomplete Multimodal Hand Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3335101.
+
  - (2023) "sEMG and IMU Data-based Hand Gesture Recognition Method using Multi-stream CNN with a Fine-tuning Transfer Framework", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3327999.
 
  - (2023) "A High-Rate Hybrid BCI System Based on High-Frequency SSVEP and sEMG", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3321722.
