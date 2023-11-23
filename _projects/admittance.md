@@ -8,6 +8,9 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: October 2023**)
+ - (2023) "A Lightweight Shoulder Exoskeleton With a Series Elastic Actuator for Assisting Overhead Work", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2023.3330755.
+
+ - (2023) "Fixed-Time Composite Neural Learning Control of Flexible Telerobotic Systems", **in** *IEEE Transactions on Cybernetics*. **DOI**: 10.1109/TCYB.2023.3325425.
 
  - (2023) "Region-Based Force Control Strategy for Improving Profile Accuracy of Blade on 7-Axis Linkage Robotic Grinding System", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2023.3325618.<br>
 **Keywords**: Force; Robots; Blades; Force control; Machining; Robot sensing systems; Couplings.
