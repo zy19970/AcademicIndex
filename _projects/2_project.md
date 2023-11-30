@@ -84,6 +84,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2916397.
 
 ### Signal acquisition and processing
+ - (2023) "Analysis Of Multiscale Corticomuscular Coupling Networks Based On Ordinal Patterns", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3337229.
+
  - (2023) "Adaptive Online Decomposition of Surface EMG Using Progressive FastICA Peel-off", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3331498.
 
  - (2023) "sEMG based knee abnormality detection using EWT-Entropy-Ensemble algorithm during walking", **in** *IEEE Sensors Letters*. **DOI**: 10.1109/LSENS.2023.3332602.
@@ -451,6 +453,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### Joint force/torque/angle
+ - (2023) "Single-channel sEMG-based estimation of knee joint angle using a decomposition  algorithm with a state-space model", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3336317.
+
  - (2023) "EMG-Based Intention Detection Using Deep Learning for Shared Control in Upper-Limb Assistive Exoskeletons", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3330678.
 
  - (2023) "A Novel Hybrid Unsupervised Domain Adaptation Method for Cross-subject Joint Angle Estimation from Surface Electromyography", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3317680.
@@ -876,6 +880,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ## Concerned Approach
 ### Multimodal fusion
+ - (2023) "Analysis Of Multiscale Corticomuscular Coupling Networks Based On Ordinal Patterns", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3337229.
+
  - (2023) "Alignment-Enhanced Interactive Fusion Model for Complete and Incomplete Multimodal Hand Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3335101.
 
  - (2023) "sEMG and IMU Data-based Hand Gesture Recognition Method using Multi-stream CNN with a Fine-tuning Transfer Framework", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3327999.
