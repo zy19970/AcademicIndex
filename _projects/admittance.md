@@ -9,10 +9,10 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: November 2023**) 
 
-- (2023) "A Geometric Framework for Stiffness Mappings of Compliant Robotic Systems on the Special Euclidean Group", **in** *IEEE Transactions on Robotics*. **DOI**: 10.1109/TRO.2023.3323824.<br>
+ - (2023) "A Geometric Framework for Stiffness Mappings of Compliant Robotic Systems on the Special Euclidean Group", **in** *IEEE Transactions on Robotics*. **DOI**: 10.1109/TRO.2023.3323824.<br>
 **Keywords**: Conservative stiffness matrix; impedance control; passivity-based control; stiffness identification; stiffness mapping; symmetry and exactness.
 
-  - (2023) "A Lightweight Shoulder Exoskeleton With a Series Elastic Actuator for Assisting Overhead Work", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2023.3330755.<br>
+ - (2023) "A Lightweight Shoulder Exoskeleton With a Series Elastic Actuator for Assisting Overhead Work", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2023.3330755.<br>
 **Keywords**: Clutch system; differential drive; multimodal assistance; overhead work; SEA; shoulder exoskeleton.
 
  - (2023) "Fixed-Time Composite Neural Learning Control of Flexible Telerobotic Systems", **in** *IEEE Transactions on Cybernetics*. **DOI**: 10.1109/TCYB.2023.3325425.<br>
