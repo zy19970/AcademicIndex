@@ -84,6 +84,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2916397.
 
 ### Signal acquisition and processing
+ - (2023) "Accurate Identification of Motoneuron Discharges from Ultrasound Images Across the Full Muscle Cross-Section", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3340019.
+
  - (2023) "Analysis Of Multiscale Corticomuscular Coupling Networks Based On Ordinal Patterns", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3337229.
 
  - (2023) "Adaptive Online Decomposition of Surface EMG Using Progressive FastICA Peel-off", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3331498.
@@ -542,6 +544,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 ## Muscle Status
 ### Biomedicine
 ### Muscle fatigue
+ - (2023) "Alterations of motor unit characteristics associated with muscle fatigue", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3338221.
+
  - (2023) "Complex Network Properties Analysis of Muscle Fatigue Based on sEMG Signals", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3233047.
 
  - (2023) "Non-Parametric Functional Muscle Network as a Robust Biomarker of Fatigue", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3234960.
@@ -1147,6 +1151,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### HD-sEMG
+ - (2023) "Alterations of motor unit characteristics associated with muscle fatigue", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3338221.
+
  - (2023) "Adaptive Online Decomposition of Surface EMG Using Progressive FastICA Peel-off", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3331498.
 
  - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
