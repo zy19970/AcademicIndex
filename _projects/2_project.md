@@ -84,6 +84,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2916397.
 
 ### Signal acquisition and processing
+ - (2023) "Accurate Identification of Motoneuron Discharges from Ultrasound Images Across the Full Muscle Cross-Section", **in** *IEEE transactions on biomedical engineering*. **DOI**: 10.1109/TBME.2023.3340019.
+
  - (2023) "Accurate Identification of Motoneuron Discharges from Ultrasound Images Across the Full Muscle Cross-Section", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3340019.
 
  - (2023) "Analysis Of Multiscale Corticomuscular Coupling Networks Based On Ordinal Patterns", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3337229.
@@ -164,6 +166,12 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Intention Recognition and Motion Classification
+ - (2023) "From Forearm to Wrist: Deep Learning for Surface Electromyography-Based Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3341220.
+
+ - (2023) "Cross-user Electromyography Pattern Recognition Based on A Novel Spatial-temporal Graph Convolutional Network", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342050.
+
+ - (2023) "Decoding Natural Grasping Behaviors: Insights into MRCP Source Features and Coupling Dynamics", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342426.
+
  - (2023) "Alignment-Enhanced Interactive Fusion Model for Complete and Incomplete Multimodal Hand Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3335101.
 
  - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
@@ -884,6 +892,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ## Concerned Approach
 ### Multimodal fusion
+ - (2023) "Accurate Identification of Motoneuron Discharges from Ultrasound Images Across the Full Muscle Cross-Section", **in** *IEEE transactions on biomedical engineering*. **DOI**: 10.1109/TBME.2023.3340019.
+
+ - (2023) "Decoding Natural Grasping Behaviors: Insights into MRCP Source Features and Coupling Dynamics", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342426.
+
  - (2023) "Analysis Of Multiscale Corticomuscular Coupling Networks Based On Ordinal Patterns", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3337229.
 
  - (2023) "Alignment-Enhanced Interactive Fusion Model for Complete and Incomplete Multimodal Hand Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3335101.
@@ -973,6 +985,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Wrist and Finger Gesture Recognition With Single-Element Ultrasound Signals: A Comparison With Single-Channel Surface Electromyogram", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2018.2872593.
 
 ### Machine learning
+ - (2023) "From Forearm to Wrist: Deep Learning for Surface Electromyography-Based Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3341220.
+
+ - (2023) "Cross-user Electromyography Pattern Recognition Based on A Novel Spatial-temporal Graph Convolutional Network", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342050.
+
  - (2023) "EMG-Based Intention Detection Using Deep Learning for Shared Control in Upper-Limb Assistive Exoskeletons", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3330678.
 
  - (2023) "Towards Robust and Efficient Musculoskeletal Modelling Using Distributed Physics-informed Deep Learning", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3325522.
@@ -1151,6 +1167,8 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### HD-sEMG
+ - (2023) "Cross-user Electromyography Pattern Recognition Based on A Novel Spatial-temporal Graph Convolutional Network", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342050.
+
  - (2023) "Alterations of motor unit characteristics associated with muscle fatigue", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3338221.
 
  - (2023) "Adaptive Online Decomposition of Surface EMG Using Progressive FastICA Peel-off", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3331498.
