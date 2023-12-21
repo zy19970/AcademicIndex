@@ -170,8 +170,6 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
  - (2023) "Cross-user Electromyography Pattern Recognition Based on A Novel Spatial-temporal Graph Convolutional Network", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342050.
 
- - (2023) "Decoding Natural Grasping Behaviors: Insights into MRCP Source Features and Coupling Dynamics", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342426.
-
  - (2023) "Alignment-Enhanced Interactive Fusion Model for Complete and Incomplete Multimodal Hand Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3335101.
 
  - (2023) "A Novel Approach to Surface EMG-based Gesture Classification Using a Vision Transformer Integrated with Convolutive Blind Source Separation", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3330289.
@@ -827,6 +825,10 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ### Surgical robots
 ### Myoelectric control
+ - (2023) "Decoding Natural Grasping Behaviors: Insights into MRCP Source Features and Coupling Dynamics", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3342426.
+
+ - (2023) "A Multidataset Characterization of Window-Based Hyperparameters for Deep CNN-Driven sEMG Pattern Recognition", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2023.3329536.
+
  - (2023) "Self-Supervised Regression Of sEMG Signals Combining Non-Negative Matrix Factorization With Deep Neural Networks For Robot Hand Multiple Grasping Motion Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3329764.
 
  - (2023) "An online human dynamic arm strength perception method based on surface electromyography signals for human-robot collaboration", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2023.3330226.

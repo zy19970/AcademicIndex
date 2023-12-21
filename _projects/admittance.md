@@ -8,6 +8,8 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: November 2023**) 
+ - (2023) "Task Space Outer-Loop Integrated DOB-Based Admittance Control of an Industrial Robot", **in** *IEEE Transactions on Control Systems Technology*. **DOI**: 10.1109/TCST.2023.3340086.<br>
+**Keywords**: Admittance control; admittance rendering; contact stability; integrated disturbance observer (DOB).
 
  - (2023) "A Geometric Framework for Stiffness Mappings of Compliant Robotic Systems on the Special Euclidean Group", **in** *IEEE Transactions on Robotics*. **DOI**: 10.1109/TRO.2023.3323824.<br>
 **Keywords**: Conservative stiffness matrix; impedance control; passivity-based control; stiffness identification; stiffness mapping; symmetry and exactness.
