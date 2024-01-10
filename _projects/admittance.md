@@ -8,6 +8,18 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: November 2023**) 
+ - (2024) "Adaptive Stiffness Visual Servoing for Unmanned Aerial Manipulators With Prescribed Performance", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2023.3344827.<br>
+**Keywords**: Adaptive stiffness; admittance control; prescribed performance; unmanned aerial manipulator (UAM); visual servoing.
+
+ - (2023) "Torque-Bounded Admittance Control With Implicit Euler Realization of Set-Valued Operators", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2023.3342479.<br>
+**Keywords**: Admittance control; boundary conditions; force control; human-robot interaction; sliding mode control.
+
+ - (2024) "Contact-RichSE(3)              -Equivariant Robot Manipulation Task Learning via Geometric Impedance Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2023.3346748.<br>
+**Keywords**: Machine learning for robot control; compliance and impedance control; learning from demonstration.
+
+ - (2023) "Human-assisted Regulation of Deployment of Tethered Space Robot via Feasibility Condition Optimization and Fast Logarithmic Sliding Mode", **in** *IEEE Transactions on Aerospace and Electronic Systems*. **DOI**: 10.1109/TAES.2023.3346808.<br>
+**Keywords**: sliding mode control; tethered space robot; underactuated system; feasibility condition optimization; human-assisted regulation.
+
  - (2023) "Task Space Outer-Loop Integrated DOB-Based Admittance Control of an Industrial Robot", **in** *IEEE Transactions on Control Systems Technology*. **DOI**: 10.1109/TCST.2023.3340086.<br>
 **Keywords**: Admittance control; admittance rendering; contact stability; integrated disturbance observer (DOB).
 
