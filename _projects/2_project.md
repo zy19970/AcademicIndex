@@ -17,7 +17,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Toward Portable Hybrid Surface Electromyography/A-Mode Ultrasound Sensing for Human–Machine Interface", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2019.2903532.
 
 ### Hardware components
- - (2023) "A Simulated Intelligent Pixelated Electrode Array for Surface Electromyography Sensors", @@in@@ @IEEE Sensors Journal@. @@DOI@@: 10.1109/JSEN.2023.3345729.
+ - (2023) "A Simulated Intelligent Pixelated Electrode Array for Surface Electromyography Sensors", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3345729.
 
  - (2023) "Wireless sEMG Sensor for Neck Muscle Activity Measurement and Posture Classification using Machine Learning", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3329383.
 
@@ -86,9 +86,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2916397.
 
 ### Signal acquisition and processing
- - (2023) "A Novel Surface Electromyographic Gesture Recognition Using Discrete Cosine Transform-Based Attention Network", @@in@@ @IEEE Signal Processing Letters@. @@DOI@@: 10.1109/LSP.2023.3348298.
+ - (2023) "A Novel Surface Electromyographic Gesture Recognition Using Discrete Cosine Transform-Based Attention Network", **in** *IEEE Signal Processing Letters*. **DOI**: 10.1109/LSP.2023.3348298.
 
- - (2023) "Online Muscle Activation Onset Detection Using Likelihood of Conditional Heteroskedasticity of Electromyography Signals", @@in@@ @IEEE Transactions on Biomedical Engineering@. @@DOI@@: 10.1109/TBME.2023.3346358.
+ - (2023) "Online Muscle Activation Onset Detection Using Likelihood of Conditional Heteroskedasticity of Electromyography Signals", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2023.3346358.
 
  - (2023) "Accurate Identification of Motoneuron Discharges from Ultrasound Images Across the Full Muscle Cross-Section", **in** *IEEE transactions on biomedical engineering*. **DOI**: 10.1109/TBME.2023.3340019.
 
@@ -172,15 +172,15 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ## Intention Recognition and Motion Classification
- - (2023) "Attention-Enhanced Frequency-Split Convolution Block for sEMG Motion Classification: Experiments on Premier League and Ninapro Datasets", @@in@@ @IEEE Sensors Journal@. @@DOI@@: 10.1109/JSEN.2023.3345731.
+ - (2023) "Attention-Enhanced Frequency-Split Convolution Block for sEMG Motion Classification: Experiments on Premier League and Ninapro Datasets", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3345731.
 
- - (2023) "A Novel Surface Electromyographic Gesture Recognition Using Discrete Cosine Transform-Based Attention Network", @@in@@ @IEEE Signal Processing Letters@. @@DOI@@: 10.1109/LSP.2023.3348298.
+ - (2023) "A Novel Surface Electromyographic Gesture Recognition Using Discrete Cosine Transform-Based Attention Network", **in** *IEEE Signal Processing Letters*. **DOI**: 10.1109/LSP.2023.3348298.
 
- - (2023) "Lower Limb Activity Recognition based on sEMG using Stacked Weighted Random Forest", @@in@@ @IEEE Transactions on Neural Systems and Rehabilitation Engineering@. @@DOI@@: 10.1109/TNSRE.2023.3346462.
+ - (2023) "Lower Limb Activity Recognition based on sEMG using Stacked Weighted Random Forest", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3346462.
 
- - (2023) "Across Sessions and Subjects Domain Adaptation for Building Robust Myoelectric Interface", @@in@@ @IEEE Transactions on Neural Systems and Rehabilitation Engineering@. @@DOI@@: 10.1109/TNSRE.2023.3347540.
+ - (2023) "Across Sessions and Subjects Domain Adaptation for Building Robust Myoelectric Interface", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3347540.
 
- - (2023) "Enhancing Gesture Classification Using Active EMG Band and Advanced Feature Extraction Technique", @@in@@ @IEEE Sensors Journal@. @@DOI@@: 10.1109/JSEN.2023.3344700.
+ - (2023) "Enhancing Gesture Classification Using Active EMG Band and Advanced Feature Extraction Technique", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3344700.
 
  - (2023) "From Forearm to Wrist: Deep Learning for Surface Electromyography-Based Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3341220.
 
@@ -477,7 +477,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 
 ### Joint force/torque/angle
- - (2023) "A Physics-Informed Low-Shot Adversarial Learning For sEMG-Based Estimation of Muscle Force and Joint Kinematics", @@in@@ @IEEE Journal of Biomedical and Health Informatics@. @@DOI@@: 10.1109/JBHI.2023.3347672.
+ - (2023) "A Physics-Informed Low-Shot Adversarial Learning For sEMG-Based Estimation of Muscle Force and Joint Kinematics", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3347672.
 
  - (2023) "Single-channel sEMG-based estimation of knee joint angle using a decomposition  algorithm with a state-space model", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3336317.
 
@@ -634,7 +634,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2020) "Prediction of Ankle Dorsiflexion Moment by Combined Ultrasound Sonography and Electromyography", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2019.2953588.
 
 ### Muscle evaluation
- - (2024) "Effect Analysis of Wearing an Lumbar Exoskeleton on Coordinated Activities of the Low Back Muscles Using sEMG Topographic Maps", @@in@@ @IEEE Transactions on Neural Systems and Rehabilitation Engineering@. @@DOI@@: 10.1109/TNSRE.2023.3349189.
+ - (2024) "Effect Analysis of Wearing an Lumbar Exoskeleton on Coordinated Activities of the Low Back Muscles Using sEMG Topographic Maps", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3349189.
 
  - (2023) "Visualizing Hand Force With Wearable Muscle Sensing for Enhanced Mixed Reality Remote Collaboration", **in** *IEEE Transactions on Visualization and Computer Graphics*. **DOI**: 10.1109/TVCG.2023.3320210.
 
@@ -718,7 +718,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ## Human-Robot Interaction
 ### Exoskeleton
- - (2024) "Effect Analysis of Wearing an Lumbar Exoskeleton on Coordinated Activities of the Low Back Muscles Using sEMG Topographic Maps", @@in@@ @IEEE Transactions on Neural Systems and Rehabilitation Engineering@. @@DOI@@: 10.1109/TNSRE.2023.3349189.
+ - (2024) "Effect Analysis of Wearing an Lumbar Exoskeleton on Coordinated Activities of the Low Back Muscles Using sEMG Topographic Maps", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3349189.
 
  - (2023) "PC-GNN: Pearson Correlation-Based Graph Neural Network for Recognition of Human Lower Limb Activity Using sEMG Signal", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2023.3319356.
 
@@ -780,7 +780,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  
 
 ### Rehabilitation
- - (2023) "Enhancing EEG and sEMG Fusion Decoding Using a Multi-Scale Parallel Convolutional Network with Attention Mechanism", @@in@@ @IEEE Transactions on Neural Systems and Rehabilitation Engineering@. @@DOI@@: 10.1109/TNSRE.2023.3347579.
+ - (2023) "Enhancing EEG and sEMG Fusion Decoding Using a Multi-Scale Parallel Convolutional Network with Attention Mechanism", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3347579.
 
  - (2023) "A Domain Adaptive Convolutional Neural Network for sEMG-Based Gait Phase Recognition Against to Speed Changes", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2022.3228320.
 
@@ -917,7 +917,7 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
 ## Concerned Approach
 ### Multimodal fusion
- - (2023) "Enhancing EEG and sEMG Fusion Decoding Using a Multi-Scale Parallel Convolutional Network with Attention Mechanism", @@in@@ @IEEE Transactions on Neural Systems and Rehabilitation Engineering@. @@DOI@@: 10.1109/TNSRE.2023.3347579.
+ - (2023) "Enhancing EEG and sEMG Fusion Decoding Using a Multi-Scale Parallel Convolutional Network with Attention Mechanism", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3347579.
 
  - (2023) "Accurate Identification of Motoneuron Discharges from Ultrasound Images Across the Full Muscle Cross-Section", **in** *IEEE transactions on biomedical engineering*. **DOI**: 10.1109/TBME.2023.3340019.
 
@@ -1012,9 +1012,9 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
  - (2019) "Wrist and Finger Gesture Recognition With Single-Element Ultrasound Signals: A Comparison With Single-Channel Surface Electromyogram", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2018.2872593.
 
 ### Machine learning
- - (2023) "Attention-Enhanced Frequency-Split Convolution Block for sEMG Motion Classification: Experiments on Premier League and Ninapro Datasets", @@in@@ @IEEE Sensors Journal@. @@DOI@@: 10.1109/JSEN.2023.3345731.
+ - (2023) "Attention-Enhanced Frequency-Split Convolution Block for sEMG Motion Classification: Experiments on Premier League and Ninapro Datasets", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2023.3345731.
 
- - (2023) "A Physics-Informed Low-Shot Adversarial Learning For sEMG-Based Estimation of Muscle Force and Joint Kinematics", @@in@@ @IEEE Journal of Biomedical and Health Informatics@. @@DOI@@: 10.1109/JBHI.2023.3347672.
+ - (2023) "A Physics-Informed Low-Shot Adversarial Learning For sEMG-Based Estimation of Muscle Force and Joint Kinematics", **in** *IEEE Journal of Biomedical and Health Informatics*. **DOI**: 10.1109/JBHI.2023.3347672.
 
  - (2023) "From Forearm to Wrist: Deep Learning for Surface Electromyography-Based Gesture Recognition", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2023.3341220.
 
