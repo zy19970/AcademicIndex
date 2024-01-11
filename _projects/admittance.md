@@ -7,7 +7,22 @@ category: work
 ---
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
-I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: November 2023**) 
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: January 2024**) 
+ - (2024) "Composite Learning Image-Based Visual Servoing of Redundant Robots With Nullspace Compliance", **in** *IEEE Control Systems Letters*. **DOI**: 10.1109/LCSYS.2024.3351559.<br>
+**Keywords**: Cameras; Robots; Visual servoing; Robot kinematics; Convergence; Redundancy; End effectors.
+
+ - (2024) "Admittance Switching for Stability and Transparency in Human-Robot Collaborative Microsurgery", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3349811.<br>
+**Keywords**: Compliance and Impedance Control; Medical Robots and Systems; Human-Robot Collaboration.
+
+ - (2024) "Safe Contact Force Generation for Robotic Thyroid Ultrasound Imaging", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3349959.<br>
+**Keywords**: Medical Robots and Systems; Force Control; Mechanism Design; Robotic Ultrasound; Thyroid Ultrasound.
+
+ - (2024) "Learning Variable Impedance Control for Robotic Massage With Deep Reinforcement Learning: A Novel Learning Framework", **in** *IEEE Systems, Man, and Cybernetics Magazine*. **DOI**: 10.1109/MSMC.2022.3231416.<br>
+**Keywords**: Deep learning; Decision making; Reinforcement learning; Games; Aerospace electronics; Impedance; Task analysis.
+
+ - (2024) "Towards Safe and Collaborative Robotic Ultrasound Tissue Scanning in Neurosurgery", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2024.3349626.<br>
+**Keywords**: Robots; Surface impedance; Phantoms; Probes; Cameras; Surface reconstruction; Robot kinematics.
+
  - (2024) "Adaptive Stiffness Visual Servoing for Unmanned Aerial Manipulators With Prescribed Performance", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2023.3344827.<br>
 **Keywords**: Adaptive stiffness; admittance control; prescribed performance; unmanned aerial manipulator (UAM); visual servoing.
 
