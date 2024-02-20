@@ -8,6 +8,24 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: January 2024**) 
+ - (2024) "Robust Elastic Structure Preserving Control for High Impedance Rendering of Series Elastic Actuator", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3366016.<br>
+**Keywords**: Impedance; Springs; Force; Torque; Robots; Stability criteria; Frequency-domain analysis; Compliance and Impedance Control; Flexible Robotics; Robust Control.
+
+ - (2024) "Hierarchical Control for Partially Feasible Tasks With Arbitrary Dimensions: Stability Analysis for the Tracking Case", **in** *IEEE Transactions on Automatic Control*. **DOI**: 10.1109/TAC.2024.3359685.<br>
+**Keywords**: Task analysis; Robots; Jacobian matrices; Stability analysis; Trajectory; Aerospace electronics; Symmetric matrices; Compliance and impedance control; redundant robots; stability; hierarchical control; trajectory tracking.
+
+ - (2024) "EMG-Based Human Motion Analysis: A Novel Approach Using Towel Electrodes and Transfer Learning", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2024.3354307.<br>
+**Keywords**: Electrodes; Electromyography; Transfer learning; Motion analysis; Impedance; Skin; Sensors; electromyography (EMG); textile electrode; transfer learning; hand gesture recognition.
+
+ - (2024) "Task-Oriented Adaptive Position/Force Control for Robotic Systems Under Hybrid Constraints", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3352135.<br>
+**Keywords**: Robots; Task analysis; Trajectory; Collision avoidance; Safety; Manipulators; Force; Adaptive position/force control; hybrid constraints; robotic systems; task-oriented control.
+
+ - (2024) "Data-Efficient Reinforcement Learning for Variable Impedance Control", **in** *IEEE Access*. **DOI**: 10.1109/ACCESS.2024.3355311.<br>
+**Keywords**: Robots; Impedance; Task analysis; Adaptation models; Reinforcement learning; Jacobian matrices; Aerospace electronics; Gaussian processes; Covariance matrices; Model-based reinforcement learning; variable impedance learning control; Gaussian processes; covariance matrix adaptation.
+
+ - (2024) "Design and Quantitative Assessment of Teleoperation-Based Human–Robot Collaboration Method for Robot-Assisted Sonography", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3350524.<br>
+**Keywords**: Robots; Ultrasonic imaging; Task analysis; Collaboration; Haptic interfaces; Image quality; Torque; Robot-assisted sonography; continuous and intuitive teleoperation; teleoperation control; human–robot collaboration; human–robot interface.
+
  - (2024) "Composite Learning Image-Based Visual Servoing of Redundant Robots With Nullspace Compliance", **in** *IEEE Control Systems Letters*. **DOI**: 10.1109/LCSYS.2024.3351559.<br>
 **Keywords**: Cameras; Robots; Visual servoing; Robot kinematics; Convergence; Redundancy; End effectors.
 
