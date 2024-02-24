@@ -8,6 +8,12 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: January 2024**) 
+ - (2024) "Augmented Reality and Human–Robot Collaboration Framework for Percutaneous Nephrolithotomy: System Design, Implementation, and Performance Metrics", **in** *IEEE Robotics & Automation Magazine*. **DOI**: 10.1109/MRA.2024.3358721.<br>
+**Keywords**: Robots; Robot kinematics; Task analysis; Visualization; Surgery; Phantoms; Needles.
+
+ - (2024) "Impact Absorbing and Compensation for Heavy Object Catching with an Unmanned Aerial Manipulator", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3368300.<br>
+**Keywords**: Manipulators; Impedance; Autonomous aerial vehicles; Trajectory; Stability analysis; Force; Safety; Aerial Systems: Mechanics and Control; Compliance and Impedance Control; Robot Safety.
+
  - (2024) "Robust Elastic Structure Preserving Control for High Impedance Rendering of Series Elastic Actuator", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3366016.<br>
 **Keywords**: Impedance; Springs; Force; Torque; Robots; Stability criteria; Frequency-domain analysis; Compliance and Impedance Control; Flexible Robotics; Robust Control.
 
