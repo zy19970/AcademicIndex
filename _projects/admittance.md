@@ -7,7 +7,7 @@ category: work
 ---
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
-I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: January 2024**) 
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: February 2024**) 
  - (2024) "Passive Versus Active Control of Weight-on-Bit for an Ultrasonic Percussive Drill", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3360977.<br>
 **Keywords**: Acoustics; Piezoelectric transducers; Drilling; Impedance; Vibrations; Surface impedance; Shape; Asteroid exploration; passive and active control; piezoelectric transducer; ultrasonic percussive drill (UPD); weight-on-bit (WOB).
 
