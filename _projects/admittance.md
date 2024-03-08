@@ -8,6 +8,21 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: February 2024**) 
+ - (2024) "A Deep Learning Framework for End-to-End Control of Powered Prostheses", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3374189.<br>
+**Keywords**: Mathematical models; Torque; Robot sensing systems; Legged locomotion; Prosthetics; Deep learning; Computer architecture; Prosthesis; End-to-end Control; Torque Estimation; Deep Learning.
+
+ - (2024) "A Parallel SCARA robot with Low-Impedance Backdrivability and a Remotely Operated Gripper with Unlimited Rotation", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3374170.<br>
+**Keywords**: Physical Human-Robot Interaction; Parallel Robots; Mechanism Design; Grippers and Other End-Effectors.
+
+ - (2024) "Teleoperation with Haptic Sensor-aided Variable Impedance Control Based on Environment and Human Stiffness Estimation", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2024.3369758.<br>
+**Keywords**: Sensors; Robot sensing systems; Haptic interfaces; Robots; Task analysis; Electromyography; Manipulators; haptic technology; robotics and automation; sensor applications; sensor data fusion.
+
+ - (2024) "An Autonomous Guidewire Delivery Method With Distal Position-Based Impedance Control", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3368764.<br>
+**Keywords**: Robots; Surgery; Force; Impedance; Safety; Instruments; Force feedback; Leader-follower; impedance model; autonomous manipulation; vascular interventional surgery.
+
+ - (2024) "Optimization-Based Variable Impedance Control of Robotic Manipulator for Medical Contact Tasks", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2024.3372209.<br>
+**Keywords**: Robots; Task analysis; Impedance; Force; Optimization; Manipulators; Medical diagnostic imaging; Medical Robot; Variable Impedance Control; Force Measurement; Optimization Control; Contact-Rich Task.
+
  - (2024) "Passive Versus Active Control of Weight-on-Bit for an Ultrasonic Percussive Drill", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3360977.<br>
 **Keywords**: Acoustics; Piezoelectric transducers; Drilling; Impedance; Vibrations; Surface impedance; Shape; Asteroid exploration; passive and active control; piezoelectric transducer; ultrasonic percussive drill (UPD); weight-on-bit (WOB).
 
