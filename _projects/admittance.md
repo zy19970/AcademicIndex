@@ -8,6 +8,12 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: February 2024**) 
+ - (2024) "Vision-Guided Contact Force Control of an Omnidirectional Unmanned Aerial Vehicle", **in** *IEEE Transactions on Aerospace and Electronic Systems*. **DOI**: 10.1109/TAES.2024.3376318.<br>
+**Keywords**: Visualization; Force; Cameras; Impedance; Autonomous aerial vehicles; Admittance control; Vehicle dynamics; Force control; admittance control; aerial vehicle; visual servoing.
+
+ - (2024) "$\rm PI^{{	ext{2}}}$-Based Adaptive Impedance Control for Gait Adaption of Lower Limb Exoskeleton", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3370954.<br>
+**Keywords**: Impedance; Exoskeletons; Legged locomotion; Hip; Thigh; Knee; Robots; Adaptive impedance control; gait adaption; gait planning; lower limb exoskeleton robot.
+
  - (2024) "A Deep Learning Framework for End-to-End Control of Powered Prostheses", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3374189.<br>
 **Keywords**: Mathematical models; Torque; Robot sensing systems; Legged locomotion; Prosthetics; Deep learning; Computer architecture; Prosthesis; End-to-end Control; Torque Estimation; Deep Learning.
 
