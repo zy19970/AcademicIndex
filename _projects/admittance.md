@@ -8,6 +8,18 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: February 2024**) 
+ - (2024) "Image-Based Time-Varying Contact Force Control of Aerial Manipulator using Robust Impedance Filter", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3382963.<br>
+**Keywords**: Cameras; Force; Surface impedance; Vectors; Tracking; Feature extraction; Trajectory; Aerial Systems: Applications; Aerial Systems: Mechanics and Control; Force Control.
+
+ - (2024) "Toward Impedance Control in Human-Machine Interfaces for Upper-Limb Prostheses", **in** *IEEE Trans Biomed Eng*. **DOI**: 10.1109/TBME.2024.3384340.<br>
+**Keywords**: Muscles; Kinematics; Impedance; Damping; Robots; Task analysis; Motors; Myocontrol; impedance control; human motor intent; muscle-skeleton models; prostheses.
+
+ - (2024) "A PI+R control scheme based on multi-agent systems for economic dispatch in isolated BESSs", **in** *IEEE/CAA Journal of Automatica Sinica*. **DOI**: 10.1109/JAS.2024.124236.<br>
+**Keywords**: Degradation; Batteries; Supply and demand; Costs; Convergence; Multi-agent systems; PI control; Battery energy storage system (BESS); distributed control; economic dispatch; multi-agent system; reset control.
+
+ - (2024) "Thresholds for Perceiving Changes in Friction When Combined With Linear System Dynamics", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2024.3368358.<br>
+**Keywords**: Friction; Impedance; Force; Linear systems; Haptic interfaces; Damping; Task analysis; Friction; haptics; human threshold; just-noticeable difference (JND); masking; mass–spring–damper system; perception.
+
  - (2024) "Vision-Guided Contact Force Control of an Omnidirectional Unmanned Aerial Vehicle", **in** *IEEE Transactions on Aerospace and Electronic Systems*. **DOI**: 10.1109/TAES.2024.3376318.<br>
 **Keywords**: Visualization; Force; Cameras; Impedance; Autonomous aerial vehicles; Admittance control; Vehicle dynamics; Force control; admittance control; aerial vehicle; visual servoing.
 
