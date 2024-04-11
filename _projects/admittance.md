@@ -8,6 +8,24 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: April 2024**) 
+ - (2024) "Force-Position Hybrid Control for Robot Assisted Thoracic-Abdominal Puncture with Respiratory Movement", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3386017.<br>
+**Keywords**: Robots; Robot kinematics; Tumors; Tracking; Force; Service robots; Needles; Surgical Robotics: Steerable Catheters/Needles; Physical Human-Robot Interaction; Sensor-based Control.
+
+ - (2024) "Variable Admittance Control Using Velocity-Curvature Patterns to Enhance Physical Human-Robot Interaction", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3387110.<br>
+**Keywords**: Force; Robots; Admittance control; Trajectory; Education; Estimation; Robot kinematics; Physical human-robot interaction; intention recognition; human factors and human-in-the-loop; velocity-curvature patterns.
+
+ - (2024) "Hybrid Cooperative Control of Functional Electrical Stimulation and Robot Assistance for Upper Extremity Rehabilitation", **in** *IEEE Transactions on Biomedical Engineering*. **DOI**: 10.1109/TBME.2024.3384939.<br>
+**Keywords**: Iron; Elbow; Robots; Motors; Torque; Muscles; Trajectory; Functional Electrical Stimulation (FES); hybrid systems; exoskeleton; rehabilitation.
+
+ - (2024) "Development of a Robotic Ultrasound System to Assist Ultrasound Examination of Pregnant Women", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2024.3387047.<br>
+**Keywords**: Robots; Ultrasonic imaging; Robot sensing systems; Pregnancy; Probes; Medical services; Medical robotics; Robotic ultrasound; musculoskeletal disorders; collaborative assistance; obstetrical ultrasound; co-manipulation; hand-guidance.
+
+ - (2024) "Biomimetic Morphing Quadrotor Inspired by Eagle Claw for Dynamic Grasping", **in** *IEEE Transactions on Robotics*. **DOI**: 10.1109/TRO.2024.3386616.<br>
+**Keywords**: Quadrotors; Grasping; Vehicle dynamics; Servomotors; Propellers; Task analysis; Drones; Morphing quadrotor; bioinspired mechanical design; dynamic grasping.
+
+ - (2024) "Asymmetric Integral Barrier Lyapunov Function-Based Human–Robot Interaction Control for Human-Compliant Space-Constrained Muscle Strength Training", **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. **DOI**: 10.1109/TSMC.2024.3378479.<br>
+**Keywords**: Robots; Training; Human-robot interaction; Torque; Observers; Aerospace electronics; Muscles; Admittance model; asymmetric integral barrier Lyapunov function (AIBLF); human–robot interaction (HRI); muscle strength training; nonlinear observer.
+
  - (2024) "Image-Based Time-Varying Contact Force Control of Aerial Manipulator using Robust Impedance Filter", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3382963.<br>
 **Keywords**: Cameras; Force; Surface impedance; Vectors; Tracking; Feature extraction; Trajectory; Aerial Systems: Applications; Aerial Systems: Mechanics and Control; Force Control.
 
