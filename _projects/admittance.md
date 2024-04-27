@@ -8,6 +8,21 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: April 2024**) 
+ - (2024) "Neural Learning-Based Adaptive Force-Tracking Control for Robots With Finite-Time Prescribed Performance Under Varying Environments", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3383029.<br>
+**Keywords**: Robots; Force; Task analysis; Uncertainty; Convergence; Artificial neural networks; Admittance control; Admittance control; disturbance observer (DOB); finite-time control; force tracking; neural networks (NNs).
+
+ - (2024) "Iterative Learning for Gravity Compensation in Impedance Control", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3386407.<br>
+**Keywords**: Robots; Gravity; Impedance; Surgery; Uncertainty; Task analysis; Aerospace electronics; Gravity compensation; impedance control; iterative learning; physical human–robot interaction; robot-assisted arthroscopy.
+
+ - (2024) "Physical Human–Robot Interaction Based on Adaptive Impedance Control for Robotic-Assisted Total Hip Arthroplasty", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3376358.<br>
+**Keywords**: Robots; Impedance; Force; Task analysis; Surgery; Dynamics; Aerospace electronics; Physical human–robot interaction (pHRI); robot-assisted total hip arthroplasty (RA-THA); variable impedance control; virtual fixture (VF).
+
+ - (2024) "Variable Admittance Control Using Velocity-Curvature Patterns to Enhance Physical Human-Robot Interaction", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3387110.<br>
+**Keywords**: Force; Robots; Admittance control; Trajectory; Education; Estimation; Robot kinematics; Physical human-robot interaction; intention recognition; human factors and human-in-the-loop; velocity-curvature patterns.
+
+ - (2024) "Rigid and Flexible Structures Coupled System Study and Enhanced Vision-Aided Control for a Versatile Cable Winding Robot", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3382820.<br>
+**Keywords**: Windings; Coils; Springs; Mechanical cables; Vibrations; Pulleys; Mathematical models; Impedance control; machine vision; rigid-flexible coupled structure; tension control; winding machine.
+
  - (2024) "Force-Position Hybrid Control for Robot Assisted Thoracic-Abdominal Puncture with Respiratory Movement", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3386017.<br>
 **Keywords**: Robots; Robot kinematics; Tumors; Tracking; Force; Service robots; Needles; Surgical Robotics: Steerable Catheters/Needles; Physical Human-Robot Interaction; Sensor-based Control.
 
