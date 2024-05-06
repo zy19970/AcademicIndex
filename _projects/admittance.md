@@ -8,6 +8,12 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: April 2024**) 
+ - (2024) "Multi-Contact Whole-Body Force Control for Position-Controlled Robots", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3396094.<br>
+**Keywords**: Robots; Torque; Humanoid robots; Task analysis; Admittance; Position measurement; Contacts; Multi-Contact Whole-Body Motion Planning and Control; Whole-Body Motion Planning and Control; Humanoid Robot Systems.
+
+ - (2024) "Simple-Rotation Angle/Axis Representations Based Second-Order Impedance Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3396090.<br>
+**Keywords**: Impedance; Torque; Robots; Angular velocity; End effectors; Force; Mathematical models; Impedance control; simple-rotation angle/axis representations; second-order differential equation; adaptive control.
+
  - (2024) "Neural Learning-Based Adaptive Force-Tracking Control for Robots With Finite-Time Prescribed Performance Under Varying Environments", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3383029.<br>
 **Keywords**: Robots; Force; Task analysis; Uncertainty; Convergence; Artificial neural networks; Admittance control; Admittance control; disturbance observer (DOB); finite-time control; force tracking; neural networks (NNs).
 
