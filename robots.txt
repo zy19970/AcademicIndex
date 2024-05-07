@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://drjoey.netlify.app//sitemap.xml
+Sitemap: https://zy19970.github.io/AcademicIndex//sitemap.xml
