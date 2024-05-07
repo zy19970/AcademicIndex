@@ -1,2 +1,5 @@
 Netlify:
 https://api.netlify.com/build_hooks/663a247631e8b91f0720be0a
+
+Cloudflare:
+https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/e25fc2b5-072a-4f86-9334-383fc55aab6e
