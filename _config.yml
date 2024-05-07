@@ -16,10 +16,10 @@ footer_text: >
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-#url: https://zy19970.github.io # the base hostname & protocol for your site
-#baseurl: /AcademicIndex/ # the subpath of your site, e.g. /blog/
+url: https://zy19970.github.io # the base hostname & protocol for your site
+baseurl: /AcademicIndex/ # the subpath of your site, e.g. /blog/
 
-url: https://drjoey.netlify.app/ # the base hostname & protocol for your site
+#url: https://drjoey.netlify.app/ # the base hostname & protocol for your site
 
 
 last_updated: true # set to true if you want to display last updated in the footer
