@@ -7,7 +7,22 @@ category: work
 ---
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
-I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: April 2024**) 
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: May 2024**) 
+ - (2024) "A Variable-Admittance Assist-As-Needed Controller for Upper-limb Rehabilitation Exoskeletons", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3398565.<br>
+**Keywords**: Exoskeletons; Wrist; Trajectory; Training; Aerospace electronics; Robot kinematics; Redundancy; Physical Human-Robot Interaction; Prosthetics and Exoskeletons; Rehabilitation Robotics.
+
+ - (2024) "Hierarchical Trajectory Deformation Algorithm with Hybrid Controller for Active Lower Limb Rehabilitation", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3396369.<br>
+**Keywords**: Trajectory; Deformation; Robots; Force; Vectors; Optimization; Human-robot interaction; Physical human-robot interaction (pHRI); rehabilitation robotics; hierarchical trajectory deformation algorithm; active rehabilitation.
+
+ - (2024) "Mitigating collision forces and improving response performance in human-robot interaction by using dual-motor actuators", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3396370.<br>
+**Keywords**: Actuators; Robots; Collision avoidance; Safety; Sun; Gears; Torque.
+
+ - (2024) "SRL-VIC: A Variable Stiffness-Based Safe Reinforcement Learning for Contact-Rich Robotic Tasks", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3396368.<br>
+**Keywords**: Task analysis; Robots; Safety; Impedance; Aerospace electronics; Training; Trajectory; Compliance and impedance control; reinforce- ment learning (RL); robotics and automation in construction.
+
+ - (2024) "A Hybrid Framework Based on Bio-Signal and Built-in Force Sensor for Human–Robot Active Co-Carrying", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3395921.<br>
+**Keywords**: Robots; Task analysis; Robot sensing systems; Impedance; Sensors; Dynamics; Collaboration; Human-robot collaboration; transportation; surface electromyography; RBF neural network; human intension detection.
+
  - (2024) "Multi-Contact Whole-Body Force Control for Position-Controlled Robots", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3396094.<br>
 **Keywords**: Robots; Torque; Humanoid robots; Task analysis; Admittance; Position measurement; Contacts; Multi-Contact Whole-Body Motion Planning and Control; Whole-Body Motion Planning and Control; Humanoid Robot Systems.
 
