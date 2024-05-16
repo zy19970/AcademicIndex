@@ -35,8 +35,7 @@ jobs:
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
-      # commit-message: "deploy: ${{ github.sha }} (${{ github.event.head_commit.message }}) 🚀 [ci skip]"
       with:
         folder: _site
-        commit-message: "deploy: ${{ github.sha }} (${{ github.event.head_commit.message }}) 🚀 [ci skip]"
+        commit-message: "🚀 [skip netlify] Deploying to gh-pages from @ ${{ github.sha }} (${{ github.event.head_commit.message }})"
 
