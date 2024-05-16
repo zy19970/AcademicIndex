@@ -105,7 +105,7 @@ touch .nojekyll
 
 # Push to DEPLOY_BRANCH
 git add -fA
-git commit --allow-empty -m "[skip netlify]"
+git commit -m "$(git log -1 --pretty=%B) [ci skip]"
 [[ ${NO_PUSH} ]] || git push -f -q origin $DEPLOY_BRANCH
 
 # Move back to SRC_BRANCH
