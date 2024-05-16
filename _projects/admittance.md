@@ -8,6 +8,18 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: May 2024**) 
+ - (2024) "Lie Group-Based User Motion Refinement Control for Teleoperation of a Constrained Robot Arm", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3401135.<br>
+**Keywords**: Robots; Task analysis; Force; Aerospace electronics; Torque; Robot kinematics; Robot sensing systems; Telerobotics and teleoperation; recognition; compliance and impedance control.
+
+ - (2024) "A Reference Assisted Background Calibration Technique With Constant Input Impedance for Time-Interleaved ADCs", **in** *IEEE Transactions on Circuits and Systems II: Express Briefs*. **DOI**: 10.1109/TCSII.2024.3401448.<br>
+**Keywords**: Calibration; Timing; Estimation; Channel estimation; Circuits; Impedance; Clocks; Time-interleaved analog-to-digital converter (TIADC); timing skew; signal-independent background calibration; statistics-based estimation.
+
+ - (2024) "Barrier Lyapunov Function-Based Fuzzy Adaptive Admittance Control of an Upper Limb Exoskeleton Using RBFNN Compensation", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3392604.<br>
+**Keywords**: Exoskeletons; Adaptation models; Task analysis; End effectors; Admittance control; Trajectory; Force; Barrier Lyapunov function (BLF); fuzzy adaptive admittance control; industrial interaction tasks; neural network; upper limb exoskeleton.
+
+ - (2024) "Adaptive Admittance Tracking Control for Interactive Robot with Prescribed Performance", **in** *Journal of Systems Engineering and Electronics*. **DOI**: 10.23919/JSEE.2024.000038.<br>
+**Keywords**: Uncertainty; Simulation; Trajectory; Safety; Reliability; Adaptive control; Task analysis; prescribed performance; admittance control; adaptive control; robots.
+
  - (2024) "A Variable-Admittance Assist-As-Needed Controller for Upper-limb Rehabilitation Exoskeletons", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3398565.<br>
 **Keywords**: Exoskeletons; Wrist; Trajectory; Training; Aerospace electronics; Robot kinematics; Redundancy; Physical Human-Robot Interaction; Prosthetics and Exoskeletons; Rehabilitation Robotics.
 
