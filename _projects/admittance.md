@@ -8,6 +8,9 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: May 2024**) 
+ - (2024) "A Safety-Focused Admittance Control Approach for Physical Human–Robot Interaction With Rigid Multi-Arm Serial Link Exoskeletons", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3389046.<br>
+**Keywords**: Safety; Collision avoidance; Exoskeletons; Admittance control; Manipulators; Jacobian matrices; Hardware; Admittance control; collision-avoidance; exoskeletons; multi-arm systems; physical human–robot interaction (pHRI); safety; serial link manipulators.
+
  - (2024) "Lie Group-Based User Motion Refinement Control for Teleoperation of a Constrained Robot Arm", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3401135.<br>
 **Keywords**: Robots; Task analysis; Force; Aerospace electronics; Torque; Robot kinematics; Robot sensing systems; Telerobotics and teleoperation; recognition; compliance and impedance control.
 
