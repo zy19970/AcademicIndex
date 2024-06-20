@@ -8,6 +8,24 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: May 2024**) 
+ - (2024) "A Control Framework for Accurate Mechanical Impedance Rendering with Series-Elastic Joints in Prosthetic Actuation Applications", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3416769.<br>
+**Keywords**: Impedance; Motors; Prosthetics; Legged locomotion; Actuators; Torque; Rendering (computer graphics); Compliance and impedance control; compliant joints and mechanisms; prosthetics.
+
+ - (2024) "A Lightweight Powered Knee Prosthesis Replicating Early-Stance Knee Flexion During Level Walking", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3416799.<br>
+**Keywords**: Knee; Prosthetics; Legged locomotion; Motors; Torque; Robots; Biomechanics; Prosthetics and exoskeletons; actuation and joint mechanisms.
+
+ - (2024) "A Passive Power-Based Control Strategy for pHRI Tasks With Omni-Directional Robotic Mobile Platforms", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3415930.<br>
+**Keywords**: Robots; Damping; Admittance; Dynamics; Task analysis; Mobile robots; Robot kinematics; Physical Human-Robot Interaction; Human-Centered Robotics; Compliance and Impedance Control; Wheeled Robots; Cooperating Robots.
+
+ - (2024) "A User- and Slope-Adaptive Control Framework for a Walking Aid Robot", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3416075.<br>
+**Keywords**: Legged locomotion; Robots; Safety; Robot sensing systems; Cameras; Assistive robots; Oscillators; walking assistive robot; variable admittance control; slope adaptive control; human motion recognition.
+
+ - (2024) "Force Push: Robust Single-Point Pushing With Force Feedback", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3414180.<br>
+**Keywords**: Robot sensing systems; Robots; Force; Force measurement; Friction; Force feedback; Sensors; Mobile manipulation; force and tactile sensing; nonprehensile manipulation.
+
+ - (2024) "The Palletrone Cart: Human-Robot Interaction-Based Aerial Cargo Transportation", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3416794.<br>
+**Keywords**: APhI; admittance control; disturbance observer; aerial transportation; physical human-robot interaction.
+
  - (2024) "A Perturbation-Robust Framework for Admittance Control of Robotic Systems With High-Stiffness Contacts and Heavy Payload", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3406055.<br>
 **Keywords**: Robots; Payloads; Task analysis; Admittance control; Force; Manipulator dynamics; Dynamics; Compliance and impedance control; force control; Human-Robot Collaboration; motion control.
 
