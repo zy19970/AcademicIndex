@@ -8,6 +8,15 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: May 2024**) 
+ - (2024) "A Physical Human–Robot Interaction Framework for Trajectory Adaptation Based on Human Motion Prediction and Adaptive Impedance Control", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3415650.<br>
+**Keywords**: Robots; Trajectory; Force; Impedance; Task analysis; Tracking; Speech recognition; Physical human-robot interaction (pHRI); trajectory adaptation; adaptive impedance control; human motion prediction.
+
+ - (2024) "Learning Target-Directed Skill and Variable Impedance Control From Interactive Demonstrations for Robot-Assisted Soft Tissue Puncture Tasks", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3418018.<br>
+**Keywords**: Robots; Task analysis; Impedance; Force; Trajectory; Biological tissues; Dynamics; Interactive demonstration; robot target-directed skill learning; variable impedance control; derivatives Gaussian process; soft tissue puncture.
+
+ - (2024) "Variable Trajectory Impedance: A Super-Twisting Sliding Mode Control Method for Mobile Manipulator Based on Identification Model", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3383042.<br>
+**Keywords**: Manipulators; Manipulator dynamics; Force; Trajectory; Torque; Vectors; Impedance; Dynamics of the mobile manipulator; measurement identification; variable trajectory active compliance control.
+
  - (2024) "A Control Framework for Accurate Mechanical Impedance Rendering with Series-Elastic Joints in Prosthetic Actuation Applications", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3416769.<br>
 **Keywords**: Impedance; Motors; Prosthetics; Legged locomotion; Actuators; Torque; Rendering (computer graphics); Compliance and impedance control; compliant joints and mechanisms; prosthetics.
 
