@@ -7,7 +7,11 @@ category: work
 ---
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
-I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: May 2024**) 
+I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+
+ - (2024) "Hybrid Impedance Control of Cable-Driven Parallel Robots Using Adaptive Friction Compensation", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3409905.<br>
+**Keywords**: Friction; Cables; Impedance; Accuracy; Sliding mode control; Adaptation models; Analytical models; Adaptive control; cable-driven parallel robots (CDPRs); friction; impedance control; radial basis function networks.
+
  - (2024) "A Physical Human–Robot Interaction Framework for Trajectory Adaptation Based on Human Motion Prediction and Adaptive Impedance Control", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3415650.<br>
 **Keywords**: Robots; Trajectory; Force; Impedance; Task analysis; Tracking; Speech recognition; Physical human-robot interaction (pHRI); trajectory adaptation; adaptive impedance control; human motion prediction.
 
