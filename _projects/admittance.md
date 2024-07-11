@@ -9,6 +9,9 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "Human–Robot Interactive Skill Learning and Correction for Polishing Based on Dynamic Time Warping Iterative Learning Control", **in** *IEEE Transactions on Control Systems Technology*. **DOI**: 10.1109/TCST.2024.3423548.<br>
+**Keywords**: Force; Robots; Task analysis; Impedance; Costs; Iterative learning control; Human-robot interaction; Dynamic time warping (DTW); Gaussian mixture model (GMM); human–robot interaction; iterative learning control (ILC).
+
  - (2024) "Hybrid Impedance Control of Cable-Driven Parallel Robots Using Adaptive Friction Compensation", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3409905.<br>
 **Keywords**: Friction; Cables; Impedance; Accuracy; Sliding mode control; Adaptation models; Analytical models; Adaptive control; cable-driven parallel robots (CDPRs); friction; impedance control; radial basis function networks.
 
