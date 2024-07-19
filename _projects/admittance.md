@@ -9,6 +9,18 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "Constant Force Control and Trajectory Planning of Multi-Axis Polishing Machine using ADRC and B-Spline Curve Algorithm", **in** *IEEE Access*. **DOI**: 10.1109/ACCESS.2024.3429377.<br>
+**Keywords**: Force; Splines (mathematics); Force control; Robots; Polishing machines; Impedance; Trajectory; B-spline curve interpolation; motion control; constant force control; ADRC.
+
+ - (2024) "A Robot Humanoid Control Framework through Human Arm Active Endpoint Stiffness and Direction Adaptive Compensation", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3428927.<br>
+**Keywords**: Robots; Impedance; Human-robot interaction; Electromyography; Manipulators; Trajectory; Muscles; Humanoid control; human-robot interaction (HRI); adaptive impedance control; direction adaptive compensation.
+
+ - (2024) "Adaptive Admittance Control Strategy for a Robotic Knee Exoskeleton With a Nonlinear Variable Stiffness Actuator", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3422478.<br>
+**Keywords**: Exoskeletons; Knee; Robots; Trajectory; Torque; Actuators; Springs; Adaptive admittance control; knee joint impairment; nonlinear variable stiffness actuator (NLVSA); robotic knee exoskeleton; torque and stiffness estimation.
+
+ - (2024) "Hierarchical Impedance, Force, and Manipulability Control for Robot Learning of Skills", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3419852.<br>
+**Keywords**: Robots; Task analysis; Impedance; Force; Jacobian matrices; Trajectory; Ellipsoids; Contact-rich tasks; force control; impedance control; learning from demonstration (LfD); robotic manipulation; variable stiffness.
+
  - (2024) "Human–Robot Interactive Skill Learning and Correction for Polishing Based on Dynamic Time Warping Iterative Learning Control", **in** *IEEE Transactions on Control Systems Technology*. **DOI**: 10.1109/TCST.2024.3423548.<br>
 **Keywords**: Force; Robots; Task analysis; Impedance; Costs; Iterative learning control; Human-robot interaction; Dynamic time warping (DTW); Gaussian mixture model (GMM); human–robot interaction; iterative learning control (ILC).
 
