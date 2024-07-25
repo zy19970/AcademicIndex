@@ -9,6 +9,12 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "Partially Decoupled Impedance Motion Force Control Using Prioritized Inertia Shaping", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3430869.<br>
+**Keywords**: Force; Robot sensing systems; Dynamics; Couplings; Noise; Force control; Friction; Force control; impedance control; inertia shaping; motion force control; prioritized control.
+
+ - (2024) "Dynamic Arm Impedance Regulation: Experiences from Medical Ultrasound Scanning Experts", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2024.3428622.<br>
+**Keywords**: Force; Probes; Impedance; Impedance measurement; Task analysis; Force measurement; Robots; Hand impedance measurement; Multifactor analysis of variance; Skill acquisition system; Ultrasound robot; Ultrasound scanning.
+
  - (2024) "Constant Force Control and Trajectory Planning of Multi-Axis Polishing Machine using ADRC and B-Spline Curve Algorithm", **in** *IEEE Access*. **DOI**: 10.1109/ACCESS.2024.3429377.<br>
 **Keywords**: Force; Splines (mathematics); Force control; Robots; Polishing machines; Impedance; Trajectory; B-spline curve interpolation; motion control; constant force control; ADRC.
 
