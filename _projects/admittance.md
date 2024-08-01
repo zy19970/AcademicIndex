@@ -9,6 +9,24 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "3D Noncontact Micro-Particle Manipulation with Acoustic Robot End-Effector under Microscope", in IEEE Robotics and Automation Letters. DOI: 10.1109/LRA.2024.3436330.<br>
+Keywords: Acoustics; End effectors; Three-dimensional displays; Robot kinematics; Impedance; Phased arrays; Acoustic field; Acoustics; micro/nano robotics; microscopic vision; noncontact particle manipulation.
+
+ - (2024) "Cooperative Control for Dual-Arm Robots Based on Improved Dynamic Movement Primitives", in IEEE Transactions on Industrial Electronics. DOI: 10.1109/TIE.2024.3406866.<br>
+Keywords: Robots; Robot kinematics; Trajectory; Task analysis; Service robots; Manipulator dynamics; End effectors; Cooperative control; dual-arm robotic system; dynamic movement primitives (DMPs); impedance control; visual perception.
+
+ - (2024) "Design and test of an intraoral electrode grid for tongue high density electromyography", in IEEE Transactions on Neural Systems and Rehabilitation Engineering. DOI: 10.1109/TNSRE.2024.3434360.<br>
+Keywords: Tongue; Muscles; Electrodes; Electromyography; Motors; Task analysis; Surface impedance; Electrode technology; electromyography; motor unit; decomposition; speech; tongue muscles.
+
+ - (2024) "Digital Sensing Systems for Electromyography", in IEEE Transactions on Neural Systems and Rehabilitation Engineering. DOI: 10.1109/TNSRE.2024.3435740.<br>
+Keywords: Electromyography; Sensors; Electrodes; Prosthetics; Sensor systems; Impedance; Skin; Digital electromyography; sensors-skin impedance.
+
+ - (2024) "Hip-knee motion-lagged coordination mapping enables speed adaptive walking for powered knee prosthesis", in IEEE Transactions on Neural Systems and Rehabilitation Engineering. DOI: 10.1109/TNSRE.2024.3435931.<br>
+Keywords: Knee; Hip; Prosthetics; Legged locomotion; Ankle; Motors; Torque; Joint coordination; motion lag; gait planning; biomimetic gait; lower-limb prosthesis.
+
+ - (2024) "Resistance Training using VAriable Resistance Suit (VARS) Increased Isometric and Isokinetic Muscle Strength", in IEEE Transactions on Neural Systems and Rehabilitation Engineering. DOI: 10.1109/TNSRE.2024.3435798.<br>
+Keywords: Muscles; Training; Immune system; Reactive power; Electrical resistance measurement; Elbow; Knee; resistance training; variable resistance suit; wearables; hypertrophy; muscle strength; muscle size; body composition; isokinetic; isometric.
+
  - (2024) "Partially Decoupled Impedance Motion Force Control Using Prioritized Inertia Shaping", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3430869.<br>
 **Keywords**: Force; Robot sensing systems; Dynamics; Couplings; Noise; Force control; Friction; Force control; impedance control; inertia shaping; motion force control; prioritized control.
 
