@@ -9,6 +9,12 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "Hybrid Vision/Force Cascaded Model Predictive Control of Robotic Manipulators for Automatic Docking Tasks", in IEEE Transactions on Industrial Electronics. DOI: 10.1109/TIE.2024.3429608.<br>
+Keywords: Manipulators; Task analysis; Manipulator dynamics; Force; Cameras; Visualization; Safety; Automatic docking; force predictive control (FPC); hybrid vision/force control; visual predictive control (VPC).
+
+ - (2024) "Approximation-Based Admittance Control of Robot-Environment Interaction With Guaranteed Performance", in IEEE transactions on systems, man, and cybernetics. Systems. DOI: 10.1109/TSMC.2024.3430265.<br>
+Keywords: Adaptive control; admittance control; iterative learning; neural networks (NNs); robot-environment interaction.
+
  - (2024) "3D Noncontact Micro-Particle Manipulation with Acoustic Robot End-Effector under Microscope", in IEEE Robotics and Automation Letters. DOI: 10.1109/LRA.2024.3436330.<br>
 Keywords: Acoustics; End effectors; Three-dimensional displays; Robot kinematics; Impedance; Phased arrays; Acoustic field; Acoustics; micro/nano robotics; microscopic vision; noncontact particle manipulation.
 
