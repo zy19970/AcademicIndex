@@ -8,6 +8,17 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Advancements and Challenges in Electrical Impedance Myography (EIM): A Comprehensive Overview of Technology Development, Applications in Sports Health, and Future Directions", **in** *IEEE Journal of Microwaves*. **DOI**: 10.1109/JMW.2024.3427710.<br>
+**Keywords**: Muscles; Impedance; Sports; Current measurement; Bioimpedance; Time-frequency analysis; Impedance measurement; Clinical assessment tool; electrical impedance myography; electrophysiological recording; muscle physiological state; sports health.
+
+ - (2024) "An impedance recognition framework based on electromyogram for physical human-robot interaction", **in** *IEEE transactions on cognitive and developmental systems*. **DOI**: 10.1109/TCDS.2024.3442172.<br>
+**Keywords**: Impedance; Force; Robots; Robot sensing systems; Muscles; Force sensors; Electromyography; Impedance recognition; physical human robot interaction; electromyographic signals; hybrid signal features.
+
+ - (2024) "Force-Sensorless Active Compliance Control for Environment Interactive Robotic Systems", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3436823.<br>
+**Keywords**: Robots; Robot sensing systems; Uncertainty; Robot kinematics; Force sensors; Legged locomotion; Dynamics; Active compliance control; environment interactive robot; force sensorless.
+
+ - (2024) "Physical Human–Robot Interaction of Dual-Arm Manipulators With Human Intention Estimation and Two-Level Admittance Adaptation", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3411574.<br>
+**Keywords**: Manipulators; Force; Collaboration; Artificial neural networks; Uncertainty; Estimation; Admittance control; Dual-arm manipulators collaboration; human intention estimation; internal and external forces control; physical human–robot interaction (pHRI); variable admittance control.
 
  - (2024) "Hybrid Vision/Force Cascaded Model Predictive Control of Robotic Manipulators for Automatic Docking Tasks", in IEEE Transactions on Industrial Electronics. DOI: 10.1109/TIE.2024.3429608.<br>
 Keywords: Manipulators; Task analysis; Manipulator dynamics; Force; Cameras; Visualization; Safety; Automatic docking; force predictive control (FPC); hybrid vision/force control; visual predictive control (VPC).
