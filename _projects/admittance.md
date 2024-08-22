@@ -8,6 +8,16 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+
+ - (2024) "Multi-Contact Cartesian Null-Space Impedance Control for the Anthropomorphic Manipulator without Knowledge of Force Locations", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3443639.<br>
+**Keywords**: Manipulators; Impedance; Task analysis; Torque; Manipulator dynamics; Aerospace electronics; Force; Impedance control; null-space; anthropomorphic manipulator; arm-angle; specially constructed Cartesian torque; multipoint contact; force locations.
+
+ - (2024) "Bidirectional Energy Flow Modulation for Passive Admittance Control", **in** *IEEE Transactions on Robotics*. **DOI**: 10.1109/TRO.2024.3443690.<br>
+**Keywords**: Robots; Admittance control; Impedance; Robot sensing systems; Force; Surface impedance; Friction; Compliance and Impedance Control; Force Control; Physical Human-Robot Interaction; Passivity-based Control.
+
+ - (2024) "Robust Control of Collaborative Dual-User Haptic Training System: An Autonomous Variable Impedance Scheme", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3436622.<br>
+**Keywords**: Training; Haptic interfaces; Impedance; Surgery; Stability analysis; Task analysis; Force; Autonomous impedance variation; dual-user haptics; physically assistive devices; surgery training; stability analysis.
+
  - (2024) "Advancements and Challenges in Electrical Impedance Myography (EIM): A Comprehensive Overview of Technology Development, Applications in Sports Health, and Future Directions", **in** *IEEE Journal of Microwaves*. **DOI**: 10.1109/JMW.2024.3427710.<br>
 **Keywords**: Muscles; Impedance; Sports; Current measurement; Bioimpedance; Time-frequency analysis; Impedance measurement; Clinical assessment tool; electrical impedance myography; electrophysiological recording; muscle physiological state; sports health.
 
