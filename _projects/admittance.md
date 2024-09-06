@@ -9,6 +9,15 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "Active Admittance Control With Iterative Learning for General-Purpose Contact-Rich Manipulation", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3443965.<br>
+**Keywords**: Active admittance control; interactive force control (ILC); iterative learning strategy; multitask manipulation.
+
+ - (2024) "High Dynamic Position Control for a Typical Hydraulic Quadruped Robot Leg Based on Virtual Decomposition Control", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3446840.<br>
+**Keywords**: Legged locomotion; Robots; Hydraulic systems; Robot kinematics; Quadrupedal robots; Vectors; Trajectory; Floating base; high dynamic locomotion; hydraulic leg system; position control; virtual decomposition control (VDC).
+
+ - (2024) "Control of Self-Balancing Lower Limb Exoskeleton for Various Wearers Under Dynamic Deformation", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3447674.<br>
+**Keywords**: Robots; Deformation; Exoskeletons; Robot sensing systems; Legged locomotion; Robot kinematics; Real-time systems; Dynamic deformation; self-balancing exoskeleton; various wearers.
+
  - (2024) "Multi-Contact Cartesian Null-Space Impedance Control for the Anthropomorphic Manipulator without Knowledge of Force Locations", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3443639.<br>
 **Keywords**: Manipulators; Impedance; Task analysis; Torque; Manipulator dynamics; Aerospace electronics; Force; Impedance control; null-space; anthropomorphic manipulator; arm-angle; specially constructed Cartesian torque; multipoint contact; force locations.
 
