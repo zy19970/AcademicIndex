@@ -9,6 +9,9 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "Design of a Robotic System Featured With High Operation Transparency for Quantifying Arm Impedance During Ultrasound Scanning", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2024.3442537.<br>
+**Keywords**: Robot sensing systems; Arms; Probes; Impedance measurement; Impedance; Phantoms; Gravity; Arm impedance measurement; skill acquisition system design; transparency analysis; ultrasound (US) robot; US scanning.
+
  - (2024) "Active Admittance Control With Iterative Learning for General-Purpose Contact-Rich Manipulation", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3443965.<br>
 **Keywords**: Active admittance control; interactive force control (ILC); iterative learning strategy; multitask manipulation.
 
