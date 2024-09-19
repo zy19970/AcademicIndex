@@ -8,6 +8,11 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Toward Task-Independent Optimal Adaptive Control of a Hip Exoskeleton for Locomotion Assistance in Neurorehabilitation", **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. **DOI**: 10.1109/TSMC.2024.3454556.<br>
+**Keywords**: Assistance personalization; impedance control; optimal adaptive control; rehabilitation exoskeletons; rehabilitation robotics; reinforcement learning (RL).
+
+ - (2024) "Efficient Impedance Controller Tuning of Robot–Environment Interaction with Improved Transient and Steady-state Performance", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2024.3463021.<br>
+**Keywords**: Impedance; Tuning; Robots; Optimization; Bayes methods; Manipulators; Robot kinematics; Controller tuning; efficient tuning strategy; impedance control; real-world robotic interaction.
 
  - (2024) "Design of a Robotic System Featured With High Operation Transparency for Quantifying Arm Impedance During Ultrasound Scanning", **in** *IEEE Transactions on Human-Machine Systems*. **DOI**: 10.1109/THMS.2024.3442537.<br>
 **Keywords**: Robot sensing systems; Arms; Probes; Impedance measurement; Impedance; Phantoms; Gravity; Arm impedance measurement; skill acquisition system design; transparency analysis; ultrasound (US) robot; US scanning.
