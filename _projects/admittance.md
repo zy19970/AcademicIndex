@@ -8,6 +8,21 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Optimized Impedance Control of a Lightweight Gait Rehabilitation Exoskeleton Based on Accurate Knee Joint Torque Estimation", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2024.3464671.<br>
+**Keywords**: Torque; Impedance; Exoskeletons; Attention mechanisms; Motors; Actuators; Medical robotics; Knee exoskeleton; Attention mechanism; Torque estimation; Impedance control; Compliant control.
+
+ - (2024) "Gait Planning and Multimodal Human-Exoskeleton Cooperative Control Based on Central Pattern Generator", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3453037.<br>
+**Keywords**: Trajectory; Exoskeletons; Hip; Tracking; Real-time systems; Training; Switches; Adaptive backstepping control; admittance control; central pattern generators (CPGs); human-exoskeleton cooperative control; lower limb exoskeleton.
+
+ - (2024) "Force Sensing Strategy for the Antagonistic Variable Stiffness Hand", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2024.3459947.<br>
+**Keywords**: Sensors; Torque; Robot sensing systems; Strain; Thumb; Force; Strain measurement; Force sensors; Sensor modelling; Strain gauges.
+
+ - (2024) "Toward Task-Independent Optimal Adaptive Control of a Hip Exoskeleton for Locomotion Assistance in Neurorehabilitation", **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. **DOI**: 10.1109/TSMC.2024.3454556.<br>
+**Keywords**: Exoskeletons; Legged locomotion; Hip; Impedance; Motors; Robots; Tuning; Assistance personalization; impedance control; optimal adaptive control; rehabilitation exoskeletons; rehabilitation robotics; reinforcement learning (RL).
+
+ - (2024) "Efficient Impedance Controller Tuning of Robot–Environment Interaction with Improved Transient and Steady-state Performance", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2024.3463021.<br>
+**Keywords**: Impedance; Tuning; Robots; Optimization; Bayes methods; Manipulators; Robot kinematics; Controller tuning; efficient tuning strategy; impedance control; real-world robotic interaction.
+
  - (2024) "Toward Task-Independent Optimal Adaptive Control of a Hip Exoskeleton for Locomotion Assistance in Neurorehabilitation", **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. **DOI**: 10.1109/TSMC.2024.3454556.<br>
 **Keywords**: Assistance personalization; impedance control; optimal adaptive control; rehabilitation exoskeletons; rehabilitation robotics; reinforcement learning (RL).
 
