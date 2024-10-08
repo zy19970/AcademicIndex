@@ -8,6 +8,15 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Exploring Key Factors on Capacitive ECG Signal Quality under Practical Considerations", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2024.3470044.<br>
+**Keywords**: TV; Economic indicators; Capacitive ECG; skin-electrode interface impedance; signal quality.
+
+ - (2024) "Passive Realizations of Series Elastic Actuation: Effects of Plant and Controller Dynamics on Haptic Rendering Performance", **in** *IEEE Transactions on Haptics*. **DOI**: 10.1109/TOH.2024.3470236.<br>
+**Keywords**: Rendering (computer graphics); Impedance; Sufficient conditions; Springs; Stability criteria; Haptic interfaces; Force control; Dynamics; Damping; Robustness; Physical human-robot interaction; interaction control; haptic rendering; series elastic actuation; network synthesis; passive physical realizations; coupled stability.
+
+ - (2024) "Learning to Assist Different Wearers in Multitasks: Efficient and Individualized Human-in-The-Loop Adaptation Framework for Lower-Limb Exoskeleton", **in** *IEEE transactions on robotics*. **DOI**: 10.1109/TRO.2024.3468768.<br>
+**Keywords**: Exoskeletons; Impedance; Legged locomotion; Lower-limb exoskeleton; Motors; multitask walking; online adaptation to wearers; proprioceptive sensors; Robots; Sensors; Trajectory.
+
  - (2024) "Optimized Impedance Control of a Lightweight Gait Rehabilitation Exoskeleton Based on Accurate Knee Joint Torque Estimation", **in** *IEEE Transactions on Medical Robotics and Bionics*. **DOI**: 10.1109/TMRB.2024.3464671.<br>
 **Keywords**: Torque; Impedance; Exoskeletons; Attention mechanisms; Motors; Actuators; Medical robotics; Knee exoskeleton; Attention mechanism; Torque estimation; Impedance control; Compliant control.
 
