@@ -8,6 +8,16 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+
+ - (2024) "Simultaneous Estimation of Human Motion Intention and Time-Varying Arm Stiffness for Enhanced Human-Robot Interaction", **in** *IEEE Transactions on Cognitive and Developmental Systems*. **DOI**: 10.1109/TCDS.2024.3480854.<br>
+**Keywords**: Robots; Robot kinematics; Impedance; Force; Estimation; Robot sensing systems; Human-robot interaction; End effectors; Motor drives; Vectors; Physical human-robot interaction; Human arm stiffness; Motion intention; Variable impedance control.
+
+ - (2024) "Image-Based Visual-Admittance Control With Prescribed Performance of Manipulators in Feature Space", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3468609.<br>
+**Keywords**: Cameras; Visualization; Visual servoing; Manipulator dynamics; Aerospace electronics; Robots; Force; Accuracy; Vectors; Steady-state; Hybrid vision/force control; prescribed performance; visual servoing.
+
+ - (2024) "Learning Stable State-Dependent Variable Impedance Control for Compliant Manipulation", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3466950.<br>
+**Keywords**: Impedance; Robots; Stability analysis; Asymptotic stability; Optimization; Mechatronics; Encoding; Damping; Accuracy; Tuning; Robotic control and learning; stability certificate learning; variable impedance control (VIC).
+
  - (2024) "Exploring Key Factors on Capacitive ECG Signal Quality under Practical Considerations", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2024.3470044.<br>
 **Keywords**: TV; Economic indicators; Capacitive ECG; skin-electrode interface impedance; signal quality.
 
