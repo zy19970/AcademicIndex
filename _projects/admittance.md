@@ -8,6 +8,17 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Distributed Neural Adaptive Impedance Control for Cooperative Manipulation With  Unknown Objects", **in** *IEEE Trans Neural Netw Learn Syst*. **DOI**: 10.1109/TNNLS.2024.3478215.<br>
+**Keywords**: Manipulators; Impedance; Trajectory; Manipulator dynamics; Robots; Artificial neural networks; Uncertainty; Gravity; Observers; Visual perception; Adaptive impedance control (AIC); cooperative manipulation; distributed neural control; mobile manipulators.
+
+ - (2024) "Multilevel Control Strategy of Human-Exoskeleton Cooperative Motion With Multimodal Wearable Training Evaluation", **in** *IEEE transactions on control systems technology*. **DOI**: 10.1109/TCST.2024.3477299.<br>
+**Keywords**: Adaptation models; Admittance; Estimation; Event detection; Exoskeletons; Fixed-time convergent control; human–exoskeleton cooperative motion; Long short term memory; lower limb exoskeleton; multi-level control strategy; Torque; Training; Trajectory; Uncertainty; variable admittance control; wearable comfort evaluation.
+
+ - (2024) "Multichannel Bioimpedance-Based Gesture Classification System for Enhanced Human-Machine Interaction", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2024.3480692.<br>
+**Keywords**: Electrical impedance tomography; Voltage measurement; Current measurement; Impedance; Impedance measurement; Accuracy; Electrodes; Support vector machines; Demodulation; Frequency measurement; Electrical Impedance Tomography (EIT); Gesture Recognition; Wearable Sensors; Machine Learning; Subspace Discriminant Analysis; Hand Gestures.
+
+ - (2024) "Object-Aware Impedance Control for Human–Robot Collaborative Task With Online Object Parameter Estimation", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3477471.<br>
+**Keywords**: Robots; Collaboration; Impedance; Robot sensing systems; Dynamics; Sensors; Transportation; Estimation; Parameter estimation; Robot kinematics; Physical human-robot interaction; online object parameter estimation; object-aware control; Cartesian impedance control; mobile manipulation.
 
  - (2024) "Simultaneous Estimation of Human Motion Intention and Time-Varying Arm Stiffness for Enhanced Human-Robot Interaction", **in** *IEEE Transactions on Cognitive and Developmental Systems*. **DOI**: 10.1109/TCDS.2024.3480854.<br>
 **Keywords**: Robots; Robot kinematics; Impedance; Force; Estimation; Robot sensing systems; Human-robot interaction; End effectors; Motor drives; Vectors; Physical human-robot interaction; Human arm stiffness; Motion intention; Variable impedance control.
