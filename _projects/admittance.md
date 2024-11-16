@@ -8,6 +8,21 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Integrated Grasping Controller Leveraging Optical Proximity Sensors for Simultaneous Contact, Impact Reduction, and Force Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3497726.<br>
+**Keywords**: Sensors; Force; Force control; Grippers; Grasping; Optical sensors; Admittance control; Impedance; Dynamics; Shape; Force control; sensor-based control; grasping.
+
+ - (2024) "Sampled-Data Admittance-Based Control for Physical Human–Robot Interaction With Data-Driven Moving Horizon Velocity Estimation", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3488314.<br>
+**Keywords**: Trajectory; Estimation; Velocity measurement; Noise measurement; Kalman filters; Dynamics; Uncertainty; Nonlinear dynamical systems; Manipulator dynamics; End effectors; Moving horizon estimation (MHE); physical human–robot interaction (pHRI); sampled-data control; velocity estimation.
+
+ - (2024) "A Swing-Assist Controller for Enhancing Knee Flexion in a Semi-Powered Transfemoral Prosthesis", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2024.3495517.<br>
+**Keywords**: Knee; Prosthetics; Torque; Legged locomotion; Thigh; Dynamics; Impedance; Trajectory; Resistance; Motion segmentation; Legged Locomotion; Prosthetics; Wearable Robots.
+
+ - (2024) "Virtually Constrained Admittance Control Using Feedback Linearization for Physical Human-Robot Interaction With Rehabilitation Exoskeletons", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3480157.<br>
+**Keywords**: Robots; Force; Exoskeletons; Trajectory; Admittance control; Sun; Robot kinematics; Feedback linearization; Aerospace electronics; Mechatronics; Admittance control; feedback linearization; holonomic constraints; physical human–robot interaction (pHRI); rehabilitation exoskeletons.
+
+ - (2024) "Compact Modular Robotic Wrist with Variable Stiffness Capability", **in** *IEEE transactions on robotics*. **DOI**: 10.1109/TRO.2024.3492453.<br>
+**Keywords**: Actuators; Collision avoidance; Compliant joint; End effectors; flexure; manipulation; Manipulators; Motors; Prosthetics; Robot sensing systems; robotic wrist; Robots; Sensors; variable stiffness; Wrist.
+
  - (2024) "Distributed Neural Adaptive Impedance Control for Cooperative Manipulation With  Unknown Objects", **in** *IEEE Trans Neural Netw Learn Syst*. **DOI**: 10.1109/TNNLS.2024.3478215.<br>
 **Keywords**: Manipulators; Impedance; Trajectory; Manipulator dynamics; Robots; Artificial neural networks; Uncertainty; Gravity; Observers; Visual perception; Adaptive impedance control (AIC); cooperative manipulation; distributed neural control; mobile manipulators.
 
