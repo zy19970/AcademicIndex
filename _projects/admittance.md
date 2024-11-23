@@ -8,6 +8,12 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Human-Aware Physical Human-Robot Collaborative Transportation and Manipulation with Multiple Aerial Robots", **in** *IEEE transactions on robotics*. **DOI**: 10.1109/TRO.2024.3502508.<br>
+**Keywords**: Robots; Payloads; Collaboration; Autonomous aerial vehicles; Transportation; Robot kinematics; Quadrotors; Service robots; Redundancy; Manipulators; Aerial Robotics; Physical Human-Robot Interaction.
+
+ - (2024) "Probability-Based Force Control for Flexible Ureteroscopy Robots", **in** *IEEE transactions on automation science and engineering*. **DOI**: 10.1109/TASE.2024.3491139.<br>
+**Keywords**: collision detection; Flexible ureteroscopy robot; force control; morphological wavelet; statistic test.
+
  - (2024) "Integrated Grasping Controller Leveraging Optical Proximity Sensors for Simultaneous Contact, Impact Reduction, and Force Control", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3497726.<br>
 **Keywords**: Sensors; Force; Force control; Grippers; Grasping; Optical sensors; Admittance control; Impedance; Dynamics; Shape; Force control; sensor-based control; grasping.
 
