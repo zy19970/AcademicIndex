@@ -8,6 +8,24 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2024) "Neurologically Inspired Transparent Interaction for Wearable Exoskeletons", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3492010.<br>
+**Keywords**: Adaptation models; Arms; Compliance and impedance control; Costs; Exoskeletons; Force; Impedance; physical human–robot interaction; Prediction algorithms; Predictive models; Real-time systems; Trajectory; wearable robots.
+
+ - (2024) "Achieving Dexterous Bidirectional Interaction in Uncertain Conditions for Medical Robotics", **in** *IEEE transactions on medical robotics and bionics*. **DOI**: 10.1109/TMRB.2024.3506163.<br>
+**Keywords**: Computer architecture; End effectors; Force; Haptic interfaces; Interaction Control; Medical robotics; Medical services; Robot kinematics; Robots; Surgery; Teleoperation; Ultrasonic imaging.
+
+ - (2024) "Design and EMG-EEG Fusion-based Admittance Control of a Hand Exoskeleton with Series Elatic Actuators", **in** *IEEE transactions on medical robotics and bionics*. **DOI**: 10.1109/TMRB.2024.3503899.<br>
+**Keywords**: admittance; Admittance control; Couplings; EEG; Electroencephalography; Electromyography; Electronics packaging; EMG; Exoskeletons; hand exoskeleton; Joining processes; Motors; SEA; Thumb; Training.
+
+ - (2024) "Nonlinear Observer-Based Sliding Mode Control for Robot-Aided Bilateral Human-Compliant Rehabilitation Training of Upper Limb", **in** *IEEE transactions on automation science and engineering*. **DOI**: 10.1109/TASE.2024.3499329.<br>
+**Keywords**: admittance controller; Human-compliant rehabilitation training; nonlinear observer; sliding mode.
+
+ - (2024) "Neurologically Inspired Transparent Interaction for Wearable Exoskeletons", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3492010.<br>
+**Keywords**: Adaptation models; Arms; Compliance and impedance control; Costs; Exoskeletons; Force; Impedance; physical human–robot interaction; Prediction algorithms; Predictive models; Real-time systems; Trajectory; wearable robots.
+
+ - (2024) "Implicit Euler Discrete-Time Set-Valued Admittance Control for Impact-Contact Force Control", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3492179.<br>
+**Keywords**: Admittance control; Force; Force control; Impedance; implicit Euler; limited torque; Mechatronics; Robot sensing systems; Robots; Robustness; Service robots; Torque; unknown environment.
+
  - (2024) "Human-Aware Physical Human-Robot Collaborative Transportation and Manipulation with Multiple Aerial Robots", **in** *IEEE transactions on robotics*. **DOI**: 10.1109/TRO.2024.3502508.<br>
 **Keywords**: Robots; Payloads; Collaboration; Autonomous aerial vehicles; Transportation; Robot kinematics; Quadrotors; Service robots; Redundancy; Manipulators; Aerial Robotics; Physical Human-Robot Interaction.
 
