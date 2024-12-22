@@ -8,6 +8,18 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+ - (2025) "Transformer-Based Approach for Predicting Transactive Energy in Neurorehabilitation", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2024.3515175.<br>
+**Keywords**: Robots; Ankle; Robot kinematics; Impedance; Adaptation models; Assistive robots; Human-robot interaction; Energy exchange; Transactive energy; Robot sensing systems; Transactive energy; neurorehabilitation; energy transfer; physical human–robot interaction; transformer model; adaptive learning.
+
+ - (2024) "A Multi-Task Energy-Aware Impedance Controller for Enhanced Safety in Physical Human-Robot Interaction", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3519871.<br>
+**Keywords**: Robots; Safety; Null space; Multitasking; Impedance; Collision avoidance; Load flow; Human-robot interaction; Service robots; Regulation; Compliance and Impedance Control; Physical Human-Robot Interaction; Human-Robot Collaboration; Safety in HRI.
+
+ - (2024) "A Variable Admittance Control Strategy for Stable and Compliant Human-Robot Physical Interaction", **in** *IEEE Robotics and Automation Letters*. **DOI**: 10.1109/LRA.2024.3519885.<br>
+**Keywords**: Robots; Oscillators; Admittance; Observers; Force; Optimization; Accuracy; Tuning; Probability density function; Human-robot interaction; Physical human-robot interaction; Variable admittance control; Model predictive control; Convex optimisation.
+
+ - (2024) "Model-Based Predictive Impedance Variation for Obstacle Avoidance in Safe Human–Robot Collaboration", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3508718.<br>
+**Keywords**: Robots; Collision avoidance; Safety; Impedance; Collaboration; Service robots; Aerospace electronics; Salt; Force; Trajectory; Physical human–robot interaction (pHRI); robot safety; model predictive control (MPC); impedance control; safety control barrier functions (SCBFs).
+
  - (2024) "Neurologically Inspired Transparent Interaction for Wearable Exoskeletons", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3492010.<br>
 **Keywords**: Adaptation models; Arms; Compliance and impedance control; Costs; Exoskeletons; Force; Impedance; physical human–robot interaction; Prediction algorithms; Predictive models; Real-time systems; Trajectory; wearable robots.
 
