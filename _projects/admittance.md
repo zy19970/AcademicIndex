@@ -8,6 +8,16 @@ category: work
 Both admittance and impedance control provide ways to regulate the interaction between a robot and its environment. These control strategies are crucial for applications such as robotic assembly, manipulation, physical human-robot interaction, and haptic feedback systems.
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
+
+ - (2024) "Perturbation Observer-Based Dynamic Event-Triggered $H_\infty$ Impedance Control for Flexible Exoskeletons via Concurrent Learning", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3509224.<br>
+**Keywords**: Impedance; Exoskeletons; Perturbation methods; Robots; Vectors; Event detection; Robustness; Uncertainty; Observers; Mathematical models;  $H_\infty$  impedance control; concurrent learning (CL); dynamic event-triggered (DET) mechanism; flexible exoskeleton; perturbation observer (PO).
+
+ - (2024) "A Compensated Open-Loop Impedance Controller Evaluated on the Second-Generation Open-Source Leg Prosthesis", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3508469.<br>
+**Keywords**: Impedance; Legged locomotion; Actuators; Robots; Torque; Belts; Ankle; Solid modeling; Motors; Hardware; Impedance control; prosthetic limbs; robot control; wearable robots.
+
+ - (2024) "A Stability-Guaranteed Variable Admittance Control Architecture for Complex Physical Interaction Tasks With Multiple Scenarios", **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. **DOI**: 10.1109/TSMC.2024.3514154.<br>
+**Keywords**: Admittance control; Stability criteria; Robots; Impedance; Complexity theory; Resistance; Real-time systems; Perturbation methods; Manipulator dynamics; Automation; Admittance control; energy tank; interaction stability; optimization; port-Hamiltonian (pH) framework.
+
  - (2025) "Transformer-Based Approach for Predicting Transactive Energy in Neurorehabilitation", **in** *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. **DOI**: 10.1109/TNSRE.2024.3515175.<br>
 **Keywords**: Robots; Ankle; Robot kinematics; Impedance; Adaptation models; Assistive robots; Human-robot interaction; Energy exchange; Transactive energy; Robot sensing systems; Transactive energy; neurorehabilitation; energy transfer; physical human–robot interaction; transformer model; adaptive learning.
 
@@ -31,9 +41,6 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
  - (2024) "Nonlinear Observer-Based Sliding Mode Control for Robot-Aided Bilateral Human-Compliant Rehabilitation Training of Upper Limb", **in** *IEEE transactions on automation science and engineering*. **DOI**: 10.1109/TASE.2024.3499329.<br>
 **Keywords**: admittance controller; Human-compliant rehabilitation training; nonlinear observer; sliding mode.
-
- - (2024) "Neurologically Inspired Transparent Interaction for Wearable Exoskeletons", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3492010.<br>
-**Keywords**: Adaptation models; Arms; Compliance and impedance control; Costs; Exoskeletons; Force; Impedance; physical human–robot interaction; Prediction algorithms; Predictive models; Real-time systems; Trajectory; wearable robots.
 
  - (2024) "Implicit Euler Discrete-Time Set-Valued Admittance Control for Impact-Contact Force Control", **in** *IEEE/ASME transactions on mechatronics*. **DOI**: 10.1109/TMECH.2024.3492179.<br>
 **Keywords**: Admittance control; Force; Force control; Impedance; implicit Euler; limited torque; Mechatronics; Robot sensing systems; Robots; Robustness; Service robots; Torque; unknown environment.
@@ -97,12 +104,6 @@ I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) dat
 
  - (2024) "Force Sensing Strategy for the Antagonistic Variable Stiffness Hand", **in** *IEEE Sensors Journal*. **DOI**: 10.1109/JSEN.2024.3459947.<br>
 **Keywords**: Sensors; Torque; Robot sensing systems; Strain; Thumb; Force; Strain measurement; Force sensors; Sensor modelling; Strain gauges.
-
- - (2024) "Toward Task-Independent Optimal Adaptive Control of a Hip Exoskeleton for Locomotion Assistance in Neurorehabilitation", **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. **DOI**: 10.1109/TSMC.2024.3454556.<br>
-**Keywords**: Exoskeletons; Legged locomotion; Hip; Impedance; Motors; Robots; Tuning; Assistance personalization; impedance control; optimal adaptive control; rehabilitation exoskeletons; rehabilitation robotics; reinforcement learning (RL).
-
- - (2024) "Efficient Impedance Controller Tuning of Robot–Environment Interaction with Improved Transient and Steady-state Performance", **in** *IEEE Transactions on Instrumentation and Measurement*. **DOI**: 10.1109/TIM.2024.3463021.<br>
-**Keywords**: Impedance; Tuning; Robots; Optimization; Bayes methods; Manipulators; Robot kinematics; Controller tuning; efficient tuning strategy; impedance control; real-world robotic interaction.
 
  - (2024) "Toward Task-Independent Optimal Adaptive Control of a Hip Exoskeleton for Locomotion Assistance in Neurorehabilitation", **in** *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. **DOI**: 10.1109/TSMC.2024.3454556.<br>
 **Keywords**: Assistance personalization; impedance control; optimal adaptive control; rehabilitation exoskeletons; rehabilitation robotics; reinforcement learning (RL).
