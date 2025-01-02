@@ -9,6 +9,15 @@ Both admittance and impedance control provide ways to regulate the interaction b
 
 I focus on research in the [IEEExplore](IEEExplore.ieee.org/Xplore/home.jsp) database. **It is important to note that the views expressed in the following paper are those of the author and do not reflect my personal opinions.** This page collects recent research effort in this line. (**Update: June 2024**) 
 
+ - (2024) "Generalized Modeling of Overactuated Aerial Manipulators: Theory and Application", **in** *IEEE Transactions on Automation Science and Engineering*. **DOI**: 10.1109/TASE.2024.3520489.<br>
+**Keywords**: Manipulators; Propellers; Manipulator dynamics; Impedance; Adaptation models; Robots; Vehicle dynamics; Autonomous aerial vehicles; Surface impedance; Kinematics; System analysis and design; remotely piloted aircraft; impedance.
+
+ - (2024) "A Complaisant and Impact-Resistant Rigid–Flexible Controller for Physical Human–Robot Interaction Considering the Possible Interferences", **in** *IEEE Transactions on Industrial Electronics*. **DOI**: 10.1109/TIE.2024.3515267.<br>
+**Keywords**: Adaptive admittance mapping model; adaptive terminal sliding mode control; Kalman filter; physical human–robot interaction (pHRI); rigid–flexible controller.
+
+ - (2024) "Perturbation Observer-Based Dynamic Event-Triggered $H_\infty$ Impedance Control for Flexible Exoskeletons via Concurrent Learning", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3509224.<br>
+**Keywords**: Impedance; Exoskeletons; Perturbation methods; Robots; Vectors; Event detection; Robustness; Uncertainty; Observers; Mathematical models;  $H_\infty$  impedance control; concurrent learning (CL); dynamic event-triggered (DET) mechanism; flexible exoskeleton; perturbation observer (PO).
+
  - (2024) "Perturbation Observer-Based Dynamic Event-Triggered $H_\infty$ Impedance Control for Flexible Exoskeletons via Concurrent Learning", **in** *IEEE/ASME Transactions on Mechatronics*. **DOI**: 10.1109/TMECH.2024.3509224.<br>
 **Keywords**: Impedance; Exoskeletons; Perturbation methods; Robots; Vectors; Event detection; Robustness; Uncertainty; Observers; Mathematical models;  $H_\infty$  impedance control; concurrent learning (CL); dynamic event-triggered (DET) mechanism; flexible exoskeleton; perturbation observer (PO).
 
