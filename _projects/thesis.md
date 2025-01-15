@@ -3,7 +3,7 @@ layout: page
 title: Read 1
 description:  HRI.
 importance: 1
-category: thesis
+category: work
 ---
 
 
