@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Beijing University of Technology.
+subtitle: BGRIMM IT.
 
 profile:
   align: right
@@ -16,8 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a third-year PhD student at the College of Mechanical & Energy Engineering, Beijing University of Technology. I am extremely fortunate to be advised Prof. [Jianfeng Li](https://fmm.bjut.edu.cn/info/1132/1565.htm). Before that, I studied as an undergraduate at School of Mechanical and Materials Engineering, North China University of Technology. 
+I am a Director of the Intelligent Robot Special Project at [Beijing General Research Institute of Mining & Metallurgy](http://english.bgrimm.com/index.htm) Intelligent Technology.
 
-I am broadly interested in Medical Robotics, Control Theory, and Machine Learning. These days, I am mostly drawn by the development of Diffusion Models. A topic that I am actively thinking about/working on is How to build effective physical human-robot interaction strategies through multimodal information.
+Our team specializes in intelligent mining, encompassing the intelligent retrofitting of mining equipment and the research of mining robots. I am broadly interested in Robotics, Control Theory, and Machine Learning. These days, I am mostly drawn by the development of quadruped/humanoid robot. A topic that I am actively thinking about/working on is the application of quadruped robot and humanoid robot in the field of mining.
 
-<b> I'm actively looking for a full-time position! Let's connect if you happen to know any good fittings.</b>
+ **If you resonate with this, we welcome any form of [cooperation](http://www.bgrimmit.com/gywm).**
+
+Previously, I obtained my PhD from the College of Mechanical & Energy Engineering at Beijing University of Technology, advised by Prof. [Jianfeng Li](https://orcid.org/0000-0002-4338-6420). My PhD research focused on developing human-robot interaction strategies to achieve robot-assisted rehabilitation training. Part of my efforts are devoted to studying biomechanical models of the ankle joint, while another part is dedicated to developing robot control strategies.
+
+
